@@ -1,0 +1,169 @@
+{
+  "ticker": "UGPA3",
+  "empresa": "Ultrapar Participações S.A.",
+  "setor": "Distribuição de combustíveis e gás (Ipiranga, Ultragaz)",
+  "preco": "30,71",
+  "data": "",
+  "dossie": {
+    "ticker": "UGPA3",
+    "preco": "30,71",
+    "var_1d": "2,03",
+    "var_5d": "11,55",
+    "var_20d": "23,83",
+    "rsi": "79,3",
+    "macd_hist": "0,643",
+    "bb_pct": "106,0",
+    "vol_ratio": "1,61",
+    "atr_pct": "2,84",
+    "dist_min52": "110,1",
+    "dist_max52": "1,0",
+    "pl": "10.8",
+    "pvp": "1,99",
+    "dy": "581.0%",
+    "roe": "19.2%",
+    "score": "45",
+    "classificacao": "OBSERVAR"
+  },
+  "analistas": [
+    {
+      "id": "small_caps",
+      "nome": "O Caçador de Small Caps",
+      "emoji": "🔎",
+      "postura": "ABSTENHO",
+      "resumo": "UGPA3 é uma large cap consolidada e líquida, fora do escopo de atuação do comitê Caryo Map.",
+      "argumentos": [
+        "Ação de alta liquidez incompatível com o perfil de small cap procurado pelo comitê.",
+        "RSI em 79,3 e Bollinger %B em 106% indicam ativo sobrecomprado e esticado graficamente.",
+        "Valorização expressiva de 23,8% em 20 dias sugere exaustão de movimento no curto prazo."
+      ],
+      "riscos": [
+        "Retração técnica iminente devido ao afastamento da média e exaustão de tendência.",
+        "DY distorcido por eventos não recorrentes, induzindo a erro na análise de dividendos."
+      ]
+    },
+    {
+      "id": "macro",
+      "nome": "A Macroespecialista",
+      "emoji": "🌍",
+      "postura": "OBSERVAR",
+      "resumo": "O papel apresenta momentum técnico extremamente esticado e correções de curto prazo são esperadas antes de novos pontos de entrada.",
+      "argumentos": [
+        "RSI em 79,3 indica sobrecompra severa e risco de exaustão compradora.",
+        "Preço operando acima da banda superior de Bollinger (106,0%) e próximo à máxima de 52 semanas.",
+        "Valorização expressiva de 23,83% nos últimos 20 dias sugere um movimento de alta já precificado e vulnerável a realização de lucros."
+      ],
+      "riscos": [
+        "Volatilidade elevada medida pelo ATR de 2,84% ao dia, aumentando o risco de stop curto.",
+        "Possível correção técnica após o forte rali recente para testar suportes em níveis de preço mais saudáveis."
+      ]
+    },
+    {
+      "id": "quant",
+      "nome": "O Analista Gráfico",
+      "emoji": "📈",
+      "postura": "EVITAR",
+      "resumo": "O papel está tecnicamente exausto e em zona de sobrecompra extrema, apresentando alto risco de reversão ou correção de curto prazo.",
+      "argumentos": [
+        "RSI em 79,3 indica sobrecompra severa, sinalizando exaustão do movimento comprador.",
+        "Bollinger %B em 106,0% mostra o preço operando fora da banda superior, caracterizando distorção estatística.",
+        "Ativo negociando a apenas 1,0% da máxima de 52 semanas, sem espaço técnico para expansão imediata sem correção prévia.",
+        "Forte aceleração de alta com volume 1,61x acima da média, sugerindo clímax de compra."
+      ],
+      "riscos": [
+        "Risco elevado de realização de lucros agressiva devido ao esticamento do preço.",
+        "Volatilidade alta (ATR de 2,84%) potencializando perdas em uma reversão de tendência."
+      ]
+    },
+    {
+      "id": "fundamentalista",
+      "nome": "A Fundamentalista",
+      "emoji": "📊",
+      "postura": "EVITAR",
+      "resumo": "A ação apresenta um momento técnico de sobrecompra extrema e múltiplos que não justificam a euforia atual.",
+      "argumentos": [
+        "O indicador de DY de 581% é tecnicamente impossível e sugere erro na fonte de dados ou evento não recorrente, exigindo cautela extrema.",
+        "O RSI em 79,3 e o Bollinger %B em 106% indicam que o ativo está em zona de exaustão compradora e sobrecomprado.",
+        "Com o preço a apenas 1% da máxima de 52 semanas e uma alta de 23,8% em 20 dias, a margem de segurança para novos aportes é nula.",
+        "O P/VP de 1,99 e o P/L de 10,8 situam a empresa acima do seu valor justo histórico recente, reduzindo a atratividade fundamentalista."
+      ],
+      "riscos": [
+        "Correção técnica severa devido ao RSI elevado e à exaustão do movimento de alta recente.",
+        "Risco de alocação baseada em dados de dividendos corrompidos ou distorcidos."
+      ]
+    },
+    {
+      "id": "cetico",
+      "nome": "O Cético",
+      "emoji": "🛡️",
+      "postura": "EVITAR",
+      "resumo": "Ação em estado de exaustão técnica extrema e euforia irracional, configurando um topo local de curto prazo.",
+      "argumentos": [
+        "RSI de 79,3 indica sobrecompra severa, enquanto o Bollinger %B em 106% sinaliza que o preço rompeu a banda superior, sugerindo reversão iminente.",
+        "A alta de 23,83% em 20 dias e a proximidade de 1% da máxima de 52 semanas confirmam que o mercado está precificando perfeição, sem margem de segurança.",
+        "O DY de 581% é um ruído estatístico ou evento não recorrente, servindo apenas como isca para sardinhas operarem o FOMO."
+      ],
+      "riscos": [
+        "Correção técnica violenta para a média de 20 períodos, dado que o ATR de 2,84% sugere volatilidade alta para uma eventual realização de lucros.",
+        "Risco de valorização já exaurida, deixando uma assimetria negativa onde o potencial de queda supera significativamente o de alta."
+      ]
+    },
+    {
+      "id": "dividendos",
+      "nome": "A Especialista em Dividendos",
+      "emoji": "💰",
+      "postura": "EVITAR",
+      "resumo": "A ação está extremamente esticada no curto prazo, com indicadores técnicos apontando sobrecompra severa e DY irreal.",
+      "argumentos": [
+        "RSI em 79,3 e Bollinger %B em 106,0% indicam exaustão compradora e preço operando fora da banda superior.",
+        "O DY de 581% é uma anomalia estatística ou evento não recorrente, não refletindo a capacidade sustentável de dividendos.",
+        "Ação próxima da máxima de 52 semanas (+110% da mínima), violando a premissa de acumular em quedas.",
+        "Alta volatilidade recente (ATR de 2,84%/dia) sugere um momento especulativo desfavorável para o investidor de renda."
+      ],
+      "riscos": [
+        "Correção técnica acentuada após a alta vertical recente.",
+        "Risco de entrada em patamar de preço muito elevado, reduzindo a margem de segurança para o yield on cost futuro."
+      ]
+    },
+    {
+      "id": "sentinela",
+      "nome": "A Sentinela de Notícias",
+      "emoji": "📰",
+      "postura": "EVITAR",
+      "resumo": "O ativo encontra-se em estado de sobrecompra extrema e exaustão técnica, sugerindo uma correção iminente após rali expressivo.",
+      "argumentos": [
+        "RSI de 79,3 indica zona de sobrecompra técnica severa",
+        "Bollinger %B em 106,0% confirma que o preço está operando fora da banda superior",
+        "Preço negociando a apenas 1% da máxima de 52 semanas com volume 1,61x acima da média",
+        "Valorização de 23,83% nos últimos 20 dias sugere movimento de esticamento exaustivo"
+      ],
+      "riscos": [
+        "Risco elevado de realização de lucros por investidores institucionais",
+        "Correção técnica acentuada dado o afastamento das médias móveis"
+      ]
+    }
+  ],
+  "sintese": {
+    "veredito": "EVITAR",
+    "placar": {
+      "comprar": 0,
+      "observar": 1,
+      "evitar": 6
+    },
+    "texto": "O comitê é unânime em reconhecer a exaustão técnica de UGPA3, que apresenta sinais claros de sobrecompra e um rali vertical insustentável no curto prazo. Enquanto a euforia do mercado ignora indicadores de exaustão e múltiplos esticados, nossa prudência recomenda evitar a exposição neste momento. A divergência reside apenas na tolerância ao risco de quem acredita em uma lateralização prolongada versus uma correção técnica severa, mas o consenso prevalece no sentido de que o preço atual não oferece margem de segurança para novas posições.",
+    "gatilho": "Correção técnica que leve o RSI(14) para níveis abaixo de 50 ou recuo para a média móvel de 20 períodos, eliminando o excesso de euforia.",
+    "entrada_ref": null,
+    "stop_ref": null,
+    "alvo_ref": null
+  },
+  "verificacao": {
+    "conferido": true,
+    "ok": true,
+    "alertas": [],
+    "conferido_em": "14/07/2026"
+  },
+  "fontes": [
+    "Preço e indicadores técnicos (RSI, MACD, Bollinger, volume): cálculo próprio sobre cotações do Yahoo Finance / brapi.dev.",
+    "Múltiplos (P/L, P/VP, ROE, DY): provedor de mercado — quando disponível, priorizamos os dados oficiais da CVM no Raio-X Fundamentalista.",
+    "Análise e síntese: geradas por IA a partir exclusivamente dos números acima, e conferidas por uma segunda verificação automática."
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "data": "06/07/2026",
+  "data_iso": "2026-07-06",
+  "turno": "tarde",
+  "turno_label": "Tarde (13:00)",
+  "hora_geracao": "21:43",
+  "resumo": "[Tarde (13:00)] Ibovespa 172.448 (-1.04%). Destaques: RECV3, PETR3, SLCE3. Semáforo: VERDE.",
+  "resumo_curto": "RECV3, PETR3, SLCE3",
+  "resumo_executivo": "",
+  "semaforo": "verde",
+  "pick_semana": null,
+  "macro": {
+    "ibovespa": "172.448",
+    "ibovespa_var": -1.04,
+    "dolar": "5,18",
+    "dolar_var": 0.0,
+    "brent": "72.14",
+    "brent_var": 0.0,
+    "selic": "14.25",
+    "ipca_12m": "4.72",
+    "atualizado_em": "06/07/2026 21:43"
+  },
+  "tops": [
+    {
+      "ticker": "RECV3",
+      "score": 55
+    },
+    {
+      "ticker": "PETR3",
+      "score": 45
+    },
+    {
+      "ticker": "SLCE3",
+      "score": 40
+    },
+    {
+      "ticker": "PETR4",
+      "score": 35
+    },
+    {
+      "ticker": "COGN3",
+      "score": 35
+    }
+  ],
+  "candidatos": [
+    {
+      "ticker": "RECV3",
+      "nome": "RECV3",
+      "score": 55,
+      "acao": "OBSERVAR",
+      "preco": "9.47",
+      "rsi": 26.1,
+      "pl": 5.2,
+      "atr": 3.1,
+      "pontos": [
+        "RSI sobrevendido (26) — possível reversão",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "3.2% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (9)",
+        "P/L atrativo (5.2x)",
+        "Dividend yield de 1416.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "9.47",
+      "stop": "8.88",
+      "alvo": "10.89"
+    },
+    {
+      "ticker": "PETR3",
+      "nome": "PETR3",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "41.85",
+      "rsi": 32.0,
+      "pl": 5.1,
+      "atr": 2.5,
+      "pontos": [
+        "RSI sobrevendido (32) — possível reversão",
+        "MACD positivo e acelerando",
+        "Tendência de baixa",
+        "Estocástico sobrevendido (18)",
+        "P/L atrativo (5.1x)",
+        "Dividend yield de 919.0%",
+        "ROE sólido (25.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "41.85",
+      "stop": "39.76",
+      "alvo": "48.13"
+    },
+    {
+      "ticker": "SLCE3",
+      "nome": "SLCE3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "12.8",
+      "rsi": 21.3,
+      "pl": 19.7,
+      "atr": 2.8,
+      "pontos": [
+        "RSI sobrevendido (21) — possível reversão",
+        "MACD positivo e acelerando",
+        "Tendência de baixa",
+        "1.7% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (14)",
+        "Dividend yield de 1008.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "12.8",
+      "stop": "12.08",
+      "alvo": "14.72"
+    },
+    {
+      "ticker": "PETR4",
+      "nome": "PETR4",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "37.77",
+      "rsi": 31.1,
+      "pl": 4.6,
+      "atr": 2.1,
+      "pontos": [
+        "RSI sobrevendido (31) — possível reversão",
+        "MACD positivo e acelerando",
+        "Tendência de baixa",
+        "Estocástico sobrevendido (17)",
+        "Dividend yield de 1019.0%",
+        "ROE sólido (25.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "37.77",
+      "stop": "36.18",
+      "alvo": "43.44"
+    },
+    {
+      "ticker": "COGN3",
+      "nome": "COGN3",
+      "score": 35,
+      "acao": "NEUTRO",
+      "preco": "2.25",
+      "rsi": 36.3,
+      "pl": 6.6,
+      "atr": 3.8,
+      "pontos": [
+        "RSI neutro-baixo (36)",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "3.5% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (6.6x)",
+        "Dividend yield de 821.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "2.25",
+      "stop": "2.08",
+      "alvo": "2.59"
+    },
+    {
+      "ticker": "MGLU3",
+      "nome": "MGLU3",
+      "score": 30,
+      "acao": "NEUTRO",
+      "preco": "4.35",
+      "rsi": 32.2,
+      "pl": 24.2,
+      "atr": 6.5,
+      "pontos": [
+        "RSI sobrevendido (32) — possível reversão",
+        "MACD positivo e acelerando",
+        "Tendência de baixa",
+        "7.9% acima da mínima de 52 sem — assimetria alta",
+        "Dividend yield de 58.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.35",
+      "stop": "3.78",
+      "alvo": "5.0"
+    },
+    {
+      "ticker": "ITUB4",
+      "nome": "ITUB4",
+      "score": 25,
+      "acao": "NEUTRO",
+      "preco": "42.56",
+      "rsi": 65.4,
+      "pl": 10.3,
+      "atr": 2.1,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "P/L atrativo (10.3x)",
+        "Dividend yield de 209.0%",
+        "ROE sólido (21.8%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "42.56",
+      "stop": "40.77",
+      "alvo": "48.94"
+    },
+    {
+      "ticker": "BBAS3",
+      "nome": "BBAS3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "19.77",
+      "rsi": 45.3,
+      "pl": 8.9,
+      "atr": 2.1,
+      "pontos": [
+        "RSI neutro-baixo (45)",
+        "Tendência de baixa",
+        "11.7% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (8.9x)",
+        "Dividend yield de 119.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "19.77",
+      "stop": "18.94",
+      "alvo": "22.74"
+    },
+    {
+      "ticker": "SANB11",
+      "nome": "SANB11",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "26.71",
+      "rsi": 44.5,
+      "pl": 13.1,
+      "atr": 2.0,
+      "pontos": [
+        "RSI neutro-baixo (45)",
+        "Tendência de baixa",
+        "10.9% acima da mínima de 52 sem — assimetria alta",
+        "P/L atrativo (13.1x)",
+        "Dividend yield de 658.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "26.71",
+      "stop": "25.64",
+      "alvo": "30.72"
+    },
+    {
+      "ticker": "AGRO3",
+      "nome": "AGRO3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "18.44",
+      "rsi": 48.6,
+      "pl": null,
+      "atr": 1.6,
+      "pontos": [
+        "RSI neutro-baixo (49)",
+        "MACD positivo e acelerando",
+        "Tendência de baixa",
+        "3.2% acima da mínima de 52 sem — assimetria alta",
+        "Dividend yield de 409.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "18.44",
+      "stop": "17.85",
+      "alvo": "21.21"
+    },
+    {
+      "ticker": "LWSA3",
+      "nome": "LWSA3",
+      "score": 20,
+      "acao": "NEUTRO",
+      "preco": "4.04",
+      "rsi": 56.4,
+      "pl": null,
+      "atr": 4.0,
+      "pontos": [
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "Dividend yield de 612.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "4.04",
+      "stop": "3.72",
+      "alvo": "4.65"
+    },
+    {
+      "ticker": "MELI34",
+      "nome": "MELI34",
+      "score": 15,
+      "acao": "EVITAR",
+      "preco": "77.38",
+      "rsi": 66.3,
+      "pl": 47.2,
+      "atr": 3.1,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "Tendência de alta (EMA 9 > 21 > 50)",
+        "ROE sólido (31.3%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "77.38",
+      "stop": "72.58",
+      "alvo": "88.99"
+    },
+    {
+      "ticker": "VALE3",
+      "nome": "VALE3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "77.79",
+      "rsi": 41.7,
+      "pl": 22.7,
+      "atr": 2.2,
+      "pontos": [
+        "RSI neutro-baixo (42)",
+        "Tendência de baixa",
+        "Estocástico sobrevendido (17)",
+        "Dividend yield de 875.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "77.79",
+      "stop": "74.37",
+      "alvo": "89.46"
+    },
+    {
+      "ticker": "SMTO3",
+      "nome": "SMTO3",
+      "score": 10,
+      "acao": "EVITAR",
+      "preco": "14.96",
+      "rsi": 39.9,
+      "pl": 5.9,
+      "atr": 3.6,
+      "pontos": [
+        "RSI neutro-baixo (40)",
+        "Tendência de baixa",
+        "P/L atrativo (5.9x)",
+        "Dividend yield de 140.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "14.96",
+      "stop": "13.88",
+      "alvo": "17.2"
+    },
+    {
+      "ticker": "PRIO3",
+      "nome": "PRIO3",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "53.57",
+      "rsi": 31.9,
+      "pl": 16.2,
+      "atr": 2.9,
+      "pontos": [
+        "RSI sobrevendido (32) — possível reversão",
+        "Tendência de baixa"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "53.57",
+      "stop": "50.46",
+      "alvo": "61.61"
+    },
+    {
+      "ticker": "BBDC4",
+      "nome": "BBDC4",
+      "score": 5,
+      "acao": "EVITAR",
+      "preco": "17.92",
+      "rsi": 59.1,
+      "pl": 8.5,
+      "atr": 2.1,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "P/L atrativo (8.5x)",
+        "Dividend yield de 125.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "17.92",
+      "stop": "17.17",
+      "alvo": "20.61"
+    },
+    {
+      "ticker": "CSAN3",
+      "nome": "CSAN3",
+      "score": 0,
+      "acao": "EVITAR",
+      "preco": "3.84",
+      "rsi": 52.8,
+      "pl": null,
+      "atr": 4.6,
+      "pontos": [
+        "Preço esticado (banda superior Bollinger)",
+        "MACD positivo e acelerando",
+        "Tendência de baixa"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "3.84",
+      "stop": "3.49",
+      "alvo": "4.42"
+    }
+  ],
+  "candidatos_top": [
+    {
+      "ticker": "RECV3",
+      "nome": "RECV3",
+      "score": 55,
+      "acao": "OBSERVAR",
+      "preco": "9.47",
+      "rsi": 26.1,
+      "pl": 5.2,
+      "atr": 3.1,
+      "pontos": [
+        "RSI sobrevendido (26) — possível reversão",
+        "Preço tocando banda inferior de Bollinger",
+        "Tendência de baixa",
+        "3.2% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (9)",
+        "P/L atrativo (5.2x)",
+        "Dividend yield de 1416.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "9.47",
+      "stop": "8.88",
+      "alvo": "10.89"
+    },
+    {
+      "ticker": "PETR3",
+      "nome": "PETR3",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "41.85",
+      "rsi": 32.0,
+      "pl": 5.1,
+      "atr": 2.5,
+      "pontos": [
+        "RSI sobrevendido (32) — possível reversão",
+        "MACD positivo e acelerando",
+        "Tendência de baixa",
+        "Estocástico sobrevendido (18)",
+        "P/L atrativo (5.1x)",
+        "Dividend yield de 919.0%",
+        "ROE sólido (25.6%)"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "41.85",
+      "stop": "39.76",
+      "alvo": "48.13"
+    },
+    {
+      "ticker": "SLCE3",
+      "nome": "SLCE3",
+      "score": 40,
+      "acao": "OBSERVAR",
+      "preco": "12.8",
+      "rsi": 21.3,
+      "pl": 19.7,
+      "atr": 2.8,
+      "pontos": [
+        "RSI sobrevendido (21) — possível reversão",
+        "MACD positivo e acelerando",
+        "Tendência de baixa",
+        "1.7% acima da mínima de 52 sem — assimetria alta",
+        "Estocástico sobrevendido (14)",
+        "Dividend yield de 1008.0%"
+      ],
+      "tese": null,
+      "risco": null,
+      "entrada": "12.8",
+      "stop": "12.08",
+      "alvo": "14.72"
+    }
+  ],
+  "plano": [
+    {
+      "ativo": "RECV3",
+      "acao": "COMPRAR",
+      "valor": "R$ 2.833,33",
+      "entrada": "R$ 9.47",
+      "stop": "R$ 8.88",
+      "alvo": "R$ 10.89"
+    },
+    {
+      "ativo": "PETR3",
+      "acao": "COMPRAR",
+      "valor": "R$ 2.833,33",
+      "entrada": "R$ 41.85",
+      "stop": "R$ 39.76",
+      "alvo": "R$ 48.13"
+    },
+    {
+      "ativo": "SLCE3",
+      "acao": "COMPRAR",
+      "valor": "R$ 2.833,33",
+      "entrada": "R$ 12.8",
+      "stop": "R$ 12.08",
+      "alvo": "R$ 14.72"
+    }
+  ],
+  "backtesting": {
+    "total_operacoes": 15,
+    "fechadas": 0,
+    "abertas": 15,
+    "ganhos": 0,
+    "perdas": 0,
+    "taxa_acerto": 0.0,
+    "retorno_medio_pct": 0.0,
+    "maior_ganho_pct": 0.0,
+    "maior_perda_pct": 0.0,
+    "retorno_total_pct": 0.0
+  },
+  "output_raw": "\n════════════════════════════════════════════════════════════\n  ANALISADOR DE OPORTUNIDADES B3\n  06/07/2026 21:43\n════════════════════════════════════════════════════════════\nAnalisando 18 ativos...\n\n  [1/18] PETR4.SA...        \n  [2/18] PETR3.SA...        \n  [3/18] PRIO3.SA...        \n  [4/18] RECV3.SA...        \n  [5/18] ITUB4.SA...        \n  [6/18] BBDC4.SA...        \n  [7/18] BBAS3.SA...        \n  [8/18] SANB11.SA...        \n  [9/18] VALE3.SA...        \n  [10/18] AGRO3.SA...        \n  [11/18] SLCE3.SA...        \n  [12/18] SMTO3.SA...        \n  [13/18] MELI34.SA...        \n  [14/18] TOTVS3.SA...        \n  [15/18] LWSA3.SA...        \n  [16/18] MGLU3.SA...        \n  [17/18] COGN3.SA...        \n  [18/18] CSAN3.SA...        \n\n════════════════════════════════════════════════════════════\n  RANKING DE OPORTUNIDADES\n════════════════════════════════════════════════════════════\n\n🟡 OBSERVAR               RECV3       Score: 55/100\n   Preço: R$ 9.47      1d: -1.8%  5d: -5.9%  20d: -12.5%\n   RSI: 26.1    Bollinger: 10.0%  Volume: 1.23x  ATR: 3.1%/dia\n   P/L: 5.2     P/VP: 0.66    DY: 1416.0%  ROE: 12.3%\n   Dist. mín 52sem: 3.2%  |  Potencial até máx: 50.4%\n   • RSI sobrevendido (26) — possível reversão\n   • Preço tocando banda inferior de Bollinger\n   • Tendência de baixa\n   • 3.2% acima da mínima de 52 sem — assimetria alta\n   • Estocástico sobrevendido (9)\n   • P/L atrativo (5.2x)\n   • Dividend yield de 1416.0%\n\n🟡 OBSERVAR               PETR3       Score: 45/100\n   Preço: R$ 41.85     1d: -1.3%  5d: -1.1%  20d: -9.1%\n   RSI: 32.0    Bollinger: 24.8%  Volume: 0.91x  ATR: 2.5%/dia\n   P/L: 5.1     P/VP: 1.21    DY: 919.0%  ROE: 25.6%\n   Dist. mín 52sem: 43.1%  |  Potencial até máx: 30.5%\n   • RSI sobrevendido (32) — possível reversão\n   • MACD positivo e acelerando\n   • Tendência de baixa\n   • Estocástico sobrevendido (18)\n   • P/L atrativo (5.1x)\n   • Dividend yield de 919.0%\n   • ROE sólido (25.6%)\n\n🟡 OBSERVAR               SLCE3       Score: 40/100\n   Preço: R$ 12.8      1d: -0.1%  5d: -1.6%  20d: -11.4%\n   RSI: 21.3    Bollinger: 22.1%  Volume: 0.74x  ATR: 2.8%/dia\n   P/L: 19.7    P/VP: 1.2     DY: 1008.0%  ROE: 5.3%\n   Dist. mín 52sem: 1.7%  |  Potencial até máx: 52.2%\n   • RSI sobrevendido (21) — possível reversão\n   • MACD positivo e acelerando\n   • Tendência de baixa\n   • 1.7% acima da mínima de 52 sem — assimetria alta\n   • Estocástico sobrevendido (14)\n   • Dividend yield de 1008.0%\n\n⚪ NEUTRO                 PETR4       Score: 35/100\n   Preço: R$ 37.77     1d: -1.2%  5d: -1.0%  20d: -8.4%\n   RSI: 31.1    Bollinger: 25.5%  Volume: 0.57x  ATR: 2.1%/dia\n   P/L: 4.6     P/VP: 1.09    DY: 1019.0%  ROE: 25.6%\n   Dist. mín 52sem: 38.2%  |  Potencial até máx: 30.2%\n   • RSI sobrevendido (31) — possível reversão\n   • MACD positivo e acelerando\n   • Tendência de baixa\n   • Estocástico sobrevendido (17)\n   • Dividend yield de 1019.0%\n   • ROE sólido (25.6%)\n\n⚪ NEUTRO                 COGN3       Score: 35/100\n   Preço: R$ 2.25      1d: -2.6%  5d: -1.8%  20d: -"
+}

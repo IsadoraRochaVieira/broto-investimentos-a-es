@@ -1,0 +1,169 @@
+{
+  "ticker": "ANIM3",
+  "empresa": "",
+  "setor": "",
+  "preco": "2,87",
+  "data": "",
+  "dossie": {
+    "ticker": "ANIM3",
+    "preco": "2,87",
+    "var_1d": "7,09",
+    "var_5d": "4,36",
+    "var_20d": "-6,51",
+    "rsi": "50,8",
+    "macd_hist": "0,039",
+    "bb_pct": "75,7",
+    "vol_ratio": "0,77",
+    "atr_pct": "5,04",
+    "dist_min52": "14,3",
+    "dist_max52": "84,3",
+    "pl": "8.0",
+    "pvp": "0,45",
+    "dy": "290.0%",
+    "roe": "8.7%",
+    "score": "20",
+    "classificacao": "NEUTRO"
+  },
+  "analistas": [
+    {
+      "id": "small_caps",
+      "nome": "O Caçador de Small Caps",
+      "emoji": "🔎",
+      "postura": "OBSERVAR",
+      "resumo": "O papel apresenta um desconto patrimonial agressivo, mas carece de volume e força técnica para uma entrada imediata.",
+      "argumentos": [
+        "P/VP de 0,45 indica forte distorção de valor patrimonial frente ao preço atual.",
+        "RSI em 50,8 reflete uma zona de neutralidade sem momentum definido.",
+        "Volume de 0,77x a média confirma a falta de interesse institucional no momento.",
+        "P/L de 8,0 sugere múltiplos atrativos se a operação for sustentável."
+      ],
+      "riscos": [
+        "Alta volatilidade (ATR de 5,04%) em um ativo de baixa liquidez pode gerar armadilhas no spread.",
+        "O DY de 290% é distorcido por eventos não recorrentes, não devendo ser considerado como métrica de proventos futuros."
+      ]
+    },
+    {
+      "id": "macro",
+      "nome": "A Macroespecialista",
+      "emoji": "🌍",
+      "postura": "OBSERVAR",
+      "resumo": "O papel apresenta valuation descontado e sinais de exaustão na queda, mas a sensibilidade do setor educacional aos juros altos impõe cautela.",
+      "argumentos": [
+        "O P/VP de 0,45 sugere um desconto excessivo frente ao valor patrimonial da companhia.",
+        "O P/L de 8,0 indica um nível de precificação atrativo para o setor, dependendo da capacidade de alavancagem operacional.",
+        "O RSI de 50,8 e a distância da máxima de 52 semanas indicam um ativo em processo de busca por suporte técnico após volatilidade recente."
+      ],
+      "riscos": [
+        "A persistência de patamares elevados da Selic pressiona o custo da dívida e reduz a margem líquida do setor de educação.",
+        "O DY de 290% é atípico e provavelmente decorre de eventos não recorrentes, não devendo ser projetado como sustentável."
+      ]
+    },
+    {
+      "id": "quant",
+      "nome": "O Analista Gráfico",
+      "emoji": "📈",
+      "postura": "OBSERVAR",
+      "resumo": "O papel apresenta um repique técnico de curto prazo, mas carece de volume financeiro para confirmar uma reversão de tendência.",
+      "argumentos": [
+        "RSI em 50,8 indica neutralidade, sem sinal de força compradora ou exaustão vendedora.",
+        "Volume financeiro abaixo da média (0,77x) invalida a alta de 7,09% como um movimento sustentável.",
+        "Banda de Bollinger em 75,7% sugere que o preço está próximo à banda superior, limitando o potencial de valorização imediato.",
+        "MACD histograma positivo (0,039) mostra uma leve melhora no momentum, mas ainda dentro de uma estrutura de baixa de longo prazo."
+      ],
+      "riscos": [
+        "Alta volatilidade (ATR de 5,04%) pode gerar stop loss precoce em posições compradas.",
+        "Proximidade da resistência da banda superior pode provocar nova pressão vendedora."
+      ]
+    },
+    {
+      "id": "fundamentalista",
+      "nome": "A Fundamentalista",
+      "emoji": "📊",
+      "postura": "EVITAR",
+      "resumo": "Empresa apresenta múltiplos descontados, mas a inconsistência nos dados financeiros e a baixa rentabilidade sugerem cautela extrema.",
+      "argumentos": [
+        "O Dividend Yield informado de 290% é tecnicamente impossível e indica erro na fonte de dados ou evento não recorrente, invalidando a análise de proventos.",
+        "O P/VP de 0,45 sugere forte desconto patrimonial, porém o ROE de 8,7% é medíocre e não justifica uma tese de valor clara.",
+        "O P/L de 8,0 é atraente, mas o histórico de volatilidade (ATR de 5,04%) e a distância da máxima de 52 semanas indicam um ativo em tendência de baixa estrutural."
+      ],
+      "riscos": [
+        "Risco de alavancagem financeira elevada típica do setor educacional que pode corroer o valor patrimonial.",
+        "Qualidade duvidosa dos dados financeiros reportados que impede a precificação correta do ativo."
+      ]
+    },
+    {
+      "id": "cetico",
+      "nome": "O Cético",
+      "emoji": "🛡️",
+      "postura": "EVITAR",
+      "resumo": "A tese de ANIM3 é uma armadilha de valor baseada em distorções contábeis e volatilidade proibitiva.",
+      "argumentos": [
+        "O DY de 290% é um outlier estatístico decorrente de eventos não recorrentes, não uma política sustentável de dividendos.",
+        "O P/VP de 0,45 sugere destruição de valor ou desconfiança severa do mercado sobre a qualidade dos ativos no balanço.",
+        "Volume de 0,77x a média indica falta de liquidez institucional, tornando qualquer entrada suscetível a manipulação de preço.",
+        "O ATR de 5,04% ao dia sinaliza um risco de ruído extremo, onde o stop loss seria frequentemente atingido pela própria volatilidade do papel."
+      ],
+      "riscos": [
+        "Risco de governança e alocação de capital ineficiente que mantém o desconto sobre o P/VP persistente.",
+        "Risco de armadilha de liquidez (value trap) com tendência de queda estrutural ignorando métricas fundamentalistas baratas."
+      ]
+    },
+    {
+      "id": "dividendos",
+      "nome": "A Especialista em Dividendos",
+      "emoji": "💰",
+      "postura": "EVITAR",
+      "resumo": "Empresa com histórico de volatilidade excessiva e métricas de dividendos inconsistentes com a realidade operacional.",
+      "argumentos": [
+        "O Dividend Yield informado de 290% é insustentável e provavelmente derivado de eventos não recorrentes.",
+        "O ROE de 8,7% é modesto para o setor de educação, indicando baixa rentabilidade sobre o patrimônio.",
+        "O P/VP de 0,45 sugere um desconto acentuado, mas reflete o alto risco de execução e o endividamento do setor.",
+        "O score técnico de 20/100 e o baixo volume recente sinalizam falta de interesse institucional e fragilidade no preço."
+      ],
+      "riscos": [
+        "Alavancagem financeira elevada típica do setor educacional que compromete a previsibilidade do fluxo de caixa.",
+        "Alta volatilidade (ATR de 5,04%/dia) que inviabiliza a estratégia de geração de renda passiva constante."
+      ]
+    },
+    {
+      "id": "sentinela",
+      "nome": "A Sentinela de Notícias",
+      "emoji": "📰",
+      "postura": "OBSERVAR",
+      "resumo": "O papel apresenta um repique técnico de curto prazo, mas ainda carece de volume expressivo para confirmar uma reversão de tendência.",
+      "argumentos": [
+        "A alta de 7,09% no dia ainda não é acompanhada por volume superior à média (0,77x), indicando falta de convicção institucional.",
+        "O P/VP de 0,45 sugere forte desconto patrimonial, porém o RSI em 50,8 reflete um equilíbrio sem força compradora dominante.",
+        "O DY de 290% é um outlier estatístico que provavelmente não reflete recorrentes, exigindo cautela na interpretação dos fundamentos."
+      ],
+      "riscos": [
+        "Alta volatilidade intrínseca (ATR de 5,04%) que pode gerar movimentos bruscos de exaustão.",
+        "Dependência de fluxo comprador sustentado para romper a resistência da tendência de baixa de 20 dias."
+      ]
+    }
+  ],
+  "sintese": {
+    "veredito": "OBSERVAR",
+    "placar": {
+      "comprar": 0,
+      "observar": 4,
+      "evitar": 3
+    },
+    "texto": "O comitê reconhece que ANIM3 negocia a patamares de valuation extremamente descontados, com P/VP de 0,45, o que atrai o olhar de quem busca ativos de valor. No entanto, o consenso é de cautela absoluta: enquanto parte do grupo enxerga um repique técnico de curto prazo, a outra parcela alerta que o baixo volume financeiro e a fragilidade estrutural do setor educacional frente ao cenário de juros impedem uma convicção de compra. A marca Caryo Map prioriza a segurança, e a divergência entre o desconto patrimonial e a inconsistência operacional recomenda manter o ativo no radar, sem exposição direta enquanto a tendência não for confirmada por volume e melhora nos fundamentos.",
+    "gatilho": "Aumento consistente do volume financeiro acima da média de 20 dias, acompanhado por um fechamento sustentado acima da resistência técnica de R$ 3,10.",
+    "entrada_ref": null,
+    "stop_ref": "R$ 2,45",
+    "alvo_ref": "R$ 3,50"
+  },
+  "verificacao": {
+    "conferido": true,
+    "ok": true,
+    "alertas": [],
+    "conferido_em": "17/07/2026"
+  },
+  "fontes": [
+    "Preço e indicadores técnicos (RSI, MACD, Bollinger, volume): cálculo próprio sobre cotações do Yahoo Finance / brapi.dev.",
+    "Múltiplos (P/L, P/VP, ROE, DY): provedor de mercado — quando disponível, priorizamos os dados oficiais da CVM no Raio-X Fundamentalista.",
+    "Análise e síntese: geradas por IA a partir exclusivamente dos números acima, e conferidas por uma segunda verificação automática."
+  ]
+}

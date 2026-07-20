@@ -1,0 +1,456 @@
+{
+  "coletado_em": "14/07/2026 14:51",
+  "total": 30,
+  "urgentes": 1,
+  "destaque": {
+    "titulo": "Move Aplicativos: crédito para motoristas de app e taxistas supera R$ 1 bilhão em financiamentos",
+    "descricao": "Tire dúvidas sobre o Programa Move Brasil O Move Aplicativos, nova linha de crédito para financiar carros com juros mais baixos para motoristas de aplicativo e taxistas, alcançou R$ 1 bilhão em financiamentos aprovados, segundo balanço divulgado nesta terça-feira (14) pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES). O programa financiou veículos novos para pouco mais de 10 mil pr",
+    "link": "https://g1.globo.com/carros/noticia/2026/07/14/bndes-move-motoristas-ja-soma-r-1-bilhao-em-financiamentos-para-taxistas-e-motoristas-de-aplicativo.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
+    "cor": "#009c3b",
+    "urgencia": "alta",
+    "score_relevancia": 1,
+    "pub_date": "Tue, 14 Jul 2026 15:46:13 -0000",
+    "setores": [
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Move Aplicativos: crédito para motoristas de app e taxistas supera R$ 1 bilhão em financiamentos",
+      "descricao": "Tire dúvidas sobre o Programa Move Brasil O Move Aplicativos, nova linha de crédito para financiar carros com juros mais baixos para motoristas de aplicativo e taxistas, alcançou R$ 1 bilhão em financiamentos aprovados, segundo balanço divulgado nesta terça-feira (14) pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES). O programa financiou veículos novos para pouco mais de 10 mil pr",
+      "link": "https://g1.globo.com/carros/noticia/2026/07/14/bndes-move-motoristas-ja-soma-r-1-bilhao-em-financiamentos-para-taxistas-e-motoristas-de-aplicativo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "alta",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 15:46:13 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Dólar opera em queda e vai a R$ 5,06, após inflação dos EUA e de olho no petróleo; Ibovespa sobe",
+      "descricao": "Preço do petróleo volta a disparar com o aumento das tensões no Oriente Médio O dólar opera em queda nesta terça-feira (14), com um recuo de 1,11% perto das 14h, cotado a R$ 5,0747. Na mínima do dia, a moeda foi a R$ 5,0652. Já o Ibovespa, principal índice da bolsa brasileira, tinha alta de 0,25% no mesmo horário, aos 176.177 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ As tens",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/14/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Tue, 14 Jul 2026 12:00:10 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Bolsa cai 1,2%, e dólar sobe para R$ 5,13 com tensão global",
+      "descricao": "A escalada das tensões no Oriente Médio pressionou os mercados financeiros nesta segunda-feira (13). A bolsa caiu mais de 1%, o dólar voltou a subir frente ao real e o petróleo subiu quase 10% diante do temor de interrupções no abastecimento global após novos desdobramentos do conflito envolvendo Estados Unidos e Irã. Principais números: Ibovespa: 175.739 pontos (-1,2%); Dólar comercial: R$ 5,131 ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/bolsa-cai-12-e-dolar-sobe-para-r-513-com-tensao-global",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 13 Jul 2026 18:59:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Boletim Focus: mercado reduz expectativa de inflação para 5,16%",
+      "descricao": "Pela segunda semana consecutiva, o mercado financeiro reduz a expectativa de inflação no Brasil em 2026. Segundo o boletim Focus, divulgado nesta segunda-feira (13) pelo Banco Central, o Índice Nacional de Preços ao Consumidor Amplo (IPCA) projetado para o ano caiu para 5,16%. Na semana passada, o mercado projetava uma inflação ligeiramente maior, de 5,30%. Os demais índices projetados pelo boleti",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/boletim-focus-mercado-reduz-para-516-expectativa-de-inflacao",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Mon, 13 Jul 2026 11:07:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Petróleo desacelera após Trump desistir de cobrar pedágio no Estreito de Ormuz",
+      "descricao": "Guga: Proposta de pedágio dos EUA em Ormuz é ilegal, desastrosa e abre brecha para o Irã Os preços do petróleo perderam a força no início da tarde desta terça-feira (14), após o presidente americano, Donald Trump, desistir de cobrar um pedágio de 20% de embarcações que passassem pelo Estreito de Ormuz, rota por onde passa cerca de 20% do comércio global da commodity. Ainda assim, os preços do petr",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/14/petroleo-alta-tensao-eua-ira.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 14 Jul 2026 10:39:37 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Dino cobra explicações em repasse de emendas e manda recado sobre influência de ex-parlamentares",
+      "descricao": "Dino cobra informações sobre 'Emendas de terceiros' O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta terça-feira (14) que as comissões de Saúde da Câmara dos Deputados e do Senado expliquem, em até 30 dias, quais medidas foram adotadas para garantir a transparência na execução de emendas parlamentares. Na decisão, Dino também criticou o que chama de \"emendas de terceiros",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/14/dino-cobra-explicacoes-em-repasse-de-emendas-e-manda-recado-sobre-influencia-de-ex-parlamentares.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Tue, 14 Jul 2026 13:46:55 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Boletim Focus: mercado reduz projeção para inflação de 2026",
+      "descricao": "Apesar do recuo para 5,16%, estimativa de inflação continua acima do teto da meta do CMN. Mercado mantém estimativas para juros e câmbio",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7460092-boletim-focus-mercado-reduz-projecao-para-inflacao-de-2026.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 13 Jul 2026 10:22:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Hassett: inflação está onde o Fed espera e preços do petróleo continuarão a cair",
+      "descricao": "O assessor econômico Kevin Hassett celebrou o recuo do núcleo do CPI para 2,6%, atribuindo a queda às políticas de Donald Trump, e justificou restrições de empréstimos a imigrantes como medida de estabilidade The post Hassett: inflação está onde o Fed espera e preços do petróleo continuarão a cair appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/hassett-inflacao-esta-onde-o-fed-espera-e-precos-do-petroleo-continuarao-a-cair/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 14 Jul 2026 16:35:53 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Trump diz ter desistido de cobrar pedágio de 20% a embarcações no Estreito de Ormuz",
+      "descricao": "Trump anuncia bloqueio naval e pedágio no Estreito de Ormuz; Irã reage com ataques O presidente dos Estados Unidos, Donald Trump, disse nesta terça-feira (14) que desistiu de cobrar uma taxa de 20% sobre produtos de navios que circulem pelo Estreito de Ormuz, como havia anunciado na segunda-feira (13). ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Trump afirmou que vai \"substituir\" a",
+      "link": "https://g1.globo.com/mundo/noticia/2026/07/14/trump-desiste-de-taxa-de-20percent-a-embarcacoes-no-estreito-de-ormuz.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 14 Jul 2026 15:08:17 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Ex-funcionários acusam Meta de usar IA para escolher trabalhadores com problemas de saúde em demissões",
+      "descricao": "Ações da Meta enfrentam péssimo momento na bolsa de NY Reuters Vinte e seis ex-funcionários da Meta, dona do Facebook, Instagram e WhatsApp, entraram com uma ação judicial contra a empresa, acusando a companhia de usar um sistema de inteligência artificial que teria prejudicado trabalhadores com deficiência ou que haviam tirado licença médica durante um processo de demissões em massa. Segundo o pr",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/14/ex-funcionarios-acusam-meta-de-usar-ia-para-escolher-trabalhadores-com-problemas-de-saude-em-demissoes.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 14 Jul 2026 14:03:03 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Presidente do TSE anuncia proposta de premiação a institutos de pesquisa que mais acertarem os resultados das eleições",
+      "descricao": "Presidente do TSE, Kássio Nunes Marques Luiz Roberto/TSE O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, anunciou nesta terça-feira (14) a intenção de criar um selo de acurácia eleitoral para premiar os institutos de pesquisa que mais acertarem os resultados das eleições. A minuta com a proposta de premiação foi apresentada em reunião com 16 institutos de pesquisa no TSE. ",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/14/presidente-do-tse-anuncia-proposta-de-premiacao-a-institutos-de-pesquisa-que-mais-acertarem-os-resultados-das-eleicoes.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 14 Jul 2026 16:00:30 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Fachin afirma que sofisticação de organizações criminosas exige 'respostas coordenadas' do Judiciário",
+      "descricao": "Fachin: crime organizado exige resposta coordenada O ministro Edson Fachin, presidente do Conselho Nacional de Justiça (CNJ), lançou nesta terça-feira (14), no órgão, a Rede Nacional de Magistrados e Magistradas com Competência em Criminalidade Organizada. Durante o evento, Fachin fez um alerta sobre a \"reinvenção\" das facções criminosas, que abandonaram os moldes hierárquicos tradicionais para at",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/14/fachin-afirma-que-sofisticacao-de-organizacoes-criminosas-exige-respostas-coordenadas-do-judiciario.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 14 Jul 2026 15:30:59 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Sob ameaça de tarifaço dos EUA, governo Lula trabalha com cenário desfavorável e prepara reação",
+      "descricao": "Andréia Sadi: Governo avalia possível decisão desfavorável no tarifaço dos EUA Apesar do discurso público do presidente Lula (PT) de que as tarifas não serão aplicadas, nos bastidores, integrantes da área técnica do governo brasileiro já trabalham com um cenário desfavorável nas negociações com os Estados Unidos. A avaliação interna, segundo apurou o blog, é de que é improvável uma vitória capaz d",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/07/14/sob-ameaca-de-tarifaco-dos-eua-governo-lula-trabalha-com-cenario-desfavoravel-e-prepara-reacao.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 14 Jul 2026 12:18:06 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "ANP cria app para motorista conferir qualidade de posto de combustível",
+      "descricao": "A partir desta segunda-feira (13), motoristas podem lançar mão de um aplicativo (app) para conferir a avaliação da qualidade de postos de combustíveis espalhados pelo Brasil. É possível também denunciar irregularidades. A plataforma “ANP com VC - Postos” foi lançada pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) , órgão público que regulamenta e fiscaliza o mercado de combu",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/anp-cria-app-para-motorista-conferir-qualidade-de-posto-de-combustivel",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 13 Jul 2026 16:05:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "SpaceX perdeu força um mês após estreia histórica na bolsa de valores?",
+      "descricao": "À medida que foi se descobrindo como a SpaceX gera sua receita, as ações da empresa começaram a cair. Mas há quem defenda que a queda será apenas temporária",
+      "link": "https://www.correiobraziliense.com.br/mundo/2026/07/7460400-spacex-perdeu-forca-um-mes-apos-estreia-historica-na-bolsa-de-valores.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 13 Jul 2026 15:20:00 -0300",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Mais de 4 mil produtos brasileiros estão na mira de tarifa de 37,5% nos EUA",
+      "descricao": "Projeção da CNI aponta que 4.187 itens, equivalentes a US$ 14,9 bilhões em exportações, podem ser afetados caso Washington confirme duas novas sobretaxas",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7460306-mais-de-4-mil-produtos-brasileiros-estao-na-mira-de-tarifa-de-375-nos-eua.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 13 Jul 2026 13:56:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Espanha pede desculpa por coluna de ex-premiê Rajoy que questionava seleção francesa",
+      "descricao": "Ministro das Relações Exteriores afirmou que ao seu homólogo francês que declarações são \"intoleráveis\" The post Espanha pede desculpa por coluna de ex-premiê Rajoy que questionava seleção francesa appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/esportes/espanha-pede-desculpa-por-coluna-de-ex-premie-rajoy-que-questionava-selecao-francesa/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 17:51:32 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "E32 dá fôlego ao etanol e beneficia São Martinho, mas alívio é limitado para o setor",
+      "descricao": "Analistas avaliam que medida não é suficiente para equilibrar o excesso de oferta esperado para a safra 2026/27 The post E32 dá fôlego ao etanol e beneficia São Martinho, mas alívio é limitado para o setor appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/e32-da-folego-ao-etanol-e-beneficia-sao-martinho-mas-alivio-e-limitado-para-o-setor/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 17:16:03 +0000",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)"
+      ]
+    },
+    {
+      "titulo": "Warsh, do Fed, promete “fazer meu trabalho” caso seja desafiado por Trump",
+      "descricao": "“Fora das quatro paredes do Federal Reserve, sem dúvida há muita política. Meu objetivo dentro do banco central é que não haja política. ‌Na medida em que houver política lá, vamos nos livrar dela.” The post Warsh, do Fed, promete “fazer meu trabalho” caso seja desafiado por Trump appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/economia/warsh-do-fed-promete-fazer-meu-trabalho-caso-seja-desafiado-por-trump/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 17:01:02 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "“Diarreia explosiva” nos EUA: mais de 3,7 mil pessoas são infectadas por parasita",
+      "descricao": "O Departamento de Saúde e Serviços Humanos de Michigan (MDHHS, na sigla em inglês) afirmou, na segunda-feira, 13, que investigações iniciais apontam para alface ou folhas de salada como uma possível fonte do surto The post &#8220;Diarreia explosiva&#8221; nos EUA: mais de 3,7 mil pessoas são infectadas por parasita appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/saude/diarreia-explosiva-nos-eua-mais-de-37-mil-pessoas-sao-infectadas-por-parasita/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 16:57:49 +0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Por que o PIX se tornou um foco da ofensiva comercial de Trump contra o Brasil?",
+      "descricao": "Agora no g1 O que começou como uma ferramenta para transferências instantâneas de dinheiro se transformou em um dos meios de pagamento mais usados pelos brasileiros. Em poucos anos, o PIX passou a liderar as transações no país e agora também entrou no centro de uma disputa comercial entre Brasil e Estados Unidos. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia A poucos meses das",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/14/por-que-o-pix-se-tornou-um-foco-da-ofensiva-comercial-de-trump-contra-o-brasil.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 16:05:27 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "'Dinheiro esquecido': Banco Central atualiza balanço e diz que R$ 6,2 bilhões podem ser resgatados",
+      "descricao": "O Banco Central (BC) atualizou os dados e informou nesta terça-feira (14) que ainda existem, nas instituições financeiras, R$ 6,241 bilhões em \"recursos esquecidos\" pelos clientes. O balanço considera valores contabilizados até maio deste ano. Deste total: R$ 4.437.422.917,99 são recursos de 24.080.039 de pessoas físicas; R$ 1.804.196.767,06 são valores de 2.274.851 de empresas. Em março, segundo ",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/14/dinheiro-esquecido-banco-central-atualiza-balanco-e-diz-que-r-62-bilhoes-podem-ser-resgatados.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 14:27:20 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Warren Buffett deixa de doar para fundação de Bill Gates após revelações sobre ligação com Jeffrey Epstein",
+      "descricao": "Warren Buffett, CEO do Berkshire Hathaway. Rick Wilking/Reuters O investidor americano Warren Buffett anunciou nesta terça-feira (14) que deixou de fazer doações para a Fundação Bill & Melinda Gates, após a divulgação de informações sobre a relação do cofundador da Microsoft, Bill Gates, com o empresário Jeffrey Epstein, condenado por crimes sexuais. Buffett informou que vai doar cerca de US$ 6 bi",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/14/warren-buffett-deixa-de-doar-para-fundacao-de-bill-gates-apos-revelacoes-sobre-ligacao-com-jeffrey-epstein.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 13:23:42 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Valdemar Costa Neto defende interferência de presidentes de partidos em emendas; 'Lógico' que outros fazem o mesmo, diz",
+      "descricao": "Em entrevista ao Estúdio i nesta terça-feira (14), o presidente do PL, Valdemar Costa Neto, defendeu a prática de dirigentes partidários definirem o destino de emendas parlamentares, defendendo que essa é uma função inerente ao cargo. Segundo o dirigente, apenas o presidente e a direção do partido possuem uma \"visão nacional\" das necessidades da legenda, enquanto o deputado individual foca apenas ",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/07/14/valdemar-costa-neto-presidentes-partidos-emendas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 17:37:00 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Caiado sobre Flávio Bolsonaro: 'Liderança você não herda, liderança você cria'",
+      "descricao": "Ronaldo Caiado, pré-candidato à presidência da República pelo PSD, durante passagem pela Agrishow em Ribeirão Preto, SP Érico Andrade/g1 O ex-governador de Goiás e pré-candidato à Presidência da República, Ronaldo Caiado (PSD), criticou nesta terça-feira (14) a estratégia de campanha de Flávio Bolsonaro (PL), que tem recorrido ao apoio do pai, o ex-presidente Jair Bolsonaro, preso, para reforçar s",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/14/caiado-sobre-flavio-bolsonaro-lideranca-voce-nao-herda-lideranca-voce-cria.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 16:51:06 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Ex-candidata a vereadora em SP, Zilu Camargo tem contas de campanha rejeitadas e deverá devolver R$ 100 mil ao Tesouro",
+      "descricao": "Zilu Camargo teve prestação de contas desaprovada pela Justiça Eleitoral Reprodução/Instagram A Justiça Eleitoral rejeitou as contas de campanha de Zilu Camargo, candidata a vereadora em São Paulo nas eleições de 2024, e determinou a devolução de R$ 100 mil ao Tesouro Nacional por considerar irregular uma despesa paga com recursos públicos de campanha. Cabe recurso à decisão. Zilu concorreu pelo U",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/07/14/ex-candidata-a-vereadora-em-sp-zilu-camargo-tem-contas-de-campanha-rejeitadas-e-devera-devolver-r-100-mil-ao-tesouro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 16:26:28 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Aliados de Lula não querem revogação de prisão domiciliar de Bolsonaro",
+      "descricao": "Aliados de Lula não querem revogação de prisão domiciliar de Bolsonaro Aliados do presidente Luiz Inácio Lula da Silva (PT) gostaram da decisão do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes de proibir o pré-candidato do PL, Flávio Bolsonaro, a visitar o pai, o ex-presidente Jair Bolsonaro, em regime de prisão domiciliar humanitária. Por outro lado, esperam que o ministro não re",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/14/aliados-de-lula-nao-querem-revogacao-de-prisao-domiciliar-de-bolsonaro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 12:20:04 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Caiado diz que Lula e família Bolsonaro 'jogam o mesmo jogo'",
+      "descricao": "Ronaldo Caiado, pré-candidato à presidência da República pelo PSD, durante passagem pela Agrishow em Ribeirão Preto, SP Érico Andrade/g1 O ex-governador de Goiás e pré-candidato à Presidência da República pelo PSD, Ronaldo Caiado, criticou nesta terça-feira (14) a disputa entre o governo Lula e o grupo político do ex-presidente Jair Bolsonaro, afirmando que ambos afastam o debate dos principais pr",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/14/caiado-lula-familia-bolsonaro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 12:16:53 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "IBGE prevê safra de 347,4 milhões de toneladas para 2026",
+      "descricao": "A estimativa do Instituto Brasileiro de Geografia e Estatística (IBGE) para a safra de cereais, leguminosas e oleaginosas deste ano é de 347,4 milhões de toneladas . O volume é 0,4% maior do que a do a colheita ano passado, o que representa mais de 1,3 milhão de toneladas a mais do que a de 2025, que foi de 346,1 milhões de toneladas. Os dados foram divulgados nesta terça-feira (14). Notícias rela",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/ibge-preve-safra-de-3474-milhoes-de-toneladas-para-2026",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 13:46:00 -0300",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Safra de grãos deve alcançar 360,1 milhões de toneladas, estima Conab",
+      "descricao": "A Companhia Nacional de Abastecimento (Conab) ajustou a estimativa para a safra de grãos 2025/26. No levantamento divulgado nesta terça-feira (14), o 10º do atual ciclo de produção agrícola, a estatal projeta produção de 360,1 milhões de toneladas. O volume é 0,4% superior à expectativa que a companhia divulgou há cerca de um mês. Se alcançados, os 360,1 milhões de toneladas representarão alta de ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/safra-de-graos-deve-alcancar-360-milhoes-de-toneladas-estima-conab",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 12:02:00 -0300",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    }
+  ]
+}

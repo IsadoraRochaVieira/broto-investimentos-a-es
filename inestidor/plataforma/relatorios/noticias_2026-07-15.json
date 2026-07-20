@@ -1,0 +1,296 @@
+{
+  "coletado_em": "15/07/2026 19:30",
+  "total": 19,
+  "urgentes": 0,
+  "destaque": {
+    "titulo": "Ibovespa hoje fecha em queda, na contramão do exterior; dólar fica estável em R$ 5,07",
+    "descricao": "Bolsas dos EUA avançam com ganhos de ações de Big Techs The post Ibovespa hoje fecha em queda, na contramão do exterior; dólar fica estável em R$ 5,07 appeared first on InfoMoney .",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15072026/",
+    "fonte": "Infomoney",
+    "categoria": "Mercado",
+    "cor": "#4488ff",
+    "urgencia": "media",
+    "score_relevancia": 5,
+    "pub_date": "Wed, 15 Jul 2026 21:17:31 +0000",
+    "setores": [
+      "Câmbio / Exportadores",
+      "Todos os ativos"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Ibovespa hoje fecha em queda, na contramão do exterior; dólar fica estável em R$ 5,07",
+      "descricao": "Bolsas dos EUA avançam com ganhos de ações de Big Techs The post Ibovespa hoje fecha em queda, na contramão do exterior; dólar fica estável em R$ 5,07 appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15072026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Wed, 15 Jul 2026 21:17:31 +0000",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Projeção oficial de inflação sobe para 5,1%, com estouro da meta",
+      "descricao": "A guerra no Oriente Médio e os possíveis efeitos do El Niño fizeram a equipe econômica revisar para cima a projeção da inflação em 2026. A estimativa para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) subiu de 4,5% para 5,1%, ficando acima do teto da meta estabelecida pelo Conselho Monetário Nacional (CMN). A previsão de crescimento do Produto Interno Bruto (PIB) foi mantida em 2,3%. As n",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-oficial-de-inflacao-sobe-para-51-com-estouro-da-meta",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Wed, 15 Jul 2026 15:21:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Governo mantém projeção de crescimento do PIB em 2,3% para 2026",
+      "descricao": "Apesar da estabilidade na estimativa de crescimento, a Fazenda revisou para cima a previsão da inflação e alertou para o aumento das incertezas no cenário internacional",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7461841-fazenda-mantem-projecao-de-crescimento-do-pib-em-23-para-2026.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Wed, 15 Jul 2026 14:27:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Fazenda vai endurecer restrições para sites de bets, diz ministro",
+      "descricao": "O ministro da Fazenda, Dario Durigan, disse nesta quarta-feira (15) que o governo federal pretende endurecer as regras de funcionamento de plataformas de jogos on-line , conhecidas como bets. Após reunião com o presidente do Supremo Tribunal Federal (STF), Edson Fachin, para tratar do tema, Durigan disse que a pasta passará a monitorar mais de perto os sites de apostas para aprimorar a proteção da",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/fazenda-vai-endurecer-restricoes-para-sites-de-bets-diz-ministro",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 15 Jul 2026 17:26:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Fazenda eleva projeção da inflação para 5,1% em 2026",
+      "descricao": "Governo revisa para cima as estimativas de inflação devido à alta dos alimentos e dos serviços",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7461878-fazenda-eleva-projecao-da-inflacao-para-51-em-2026.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 15 Jul 2026 15:22:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Canadá espera assinar acordo de livre-comércio com Mercosul este ano",
+      "descricao": "Brasil, terceira maior economia das Américas, atrás dos Estados Unidos e do Canadá, lidera as negociações pelo lado do Mercosul",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7461500-canada-espera-assinar-acordo-de-livre-comercio-com-mercosul-este-ano.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Tue, 14 Jul 2026 22:28:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Assaí Farma deve ampliar receita, mas não significa reprecificação imediata das ações",
+      "descricao": "Primeira farmácia dentro de um supermercado Assaí será inaugurada nesta quinta-feira, 16 The post Assaí Farma deve ampliar receita, mas não significa reprecificação imediata das ações appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/assai-farma-deve-ampliar-receita-mas-nao-significa-reprecificacao-imediata-das-acoes/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 15 Jul 2026 21:18:22 +0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Copa do Mundo feminina no Brasil deve movimentar R$ 8,8 bilhões",
+      "descricao": "A Copa de Futebol Fifa Feminina 2027 no Brasil deve injetar R$ 8,8 bilhões na economia, gerar 73,7 mil postos de trabalho e renda de R$ 4,5 bilhões e arrecadar em tributos R$ 928 milhões. A estimativa é do Mapeamento do Potencial de Captação e Internacionalização de Eventos Esportivos no Turismo Brasileiro, desenvolvido pela Fundação Getulio Vargas para a Agência Brasileira de Promoção Internacion",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/copa-do-mundo-feminina-no-brasil-deve-movimentar-r-88-bilhoes",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 15 Jul 2026 13:56:00 -0300",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Setor de serviços cai 0,4% em maio por recuo na área de transportes",
+      "descricao": "O setor de serviços, que reúne atividades como turismo, restaurantes, salão de beleza, internet e tecnologia da informação (TI), recuou 0,4% em maio, puxado pelo desempenho negativo dos transportes. Segundo a Secretaria da Política Econômica (SPE) do Ministério da Fazenda, o resultado veio abaixo das expectativas de mercado (intervalo de -0,3% a 0,6%; mediana de 0,0%). Notícias relacionadas: Confi",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/setor-de-servicos-cai-04-em-maio-por-recuo-no-setor-de-transportes",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 15 Jul 2026 11:00:00 -0300",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "IRPF: lote especial restituição de restituição começa a ser pago hoje",
+      "descricao": "Começa a ser pago nesta quarta-feira (15) lote especial de restituição automática do Imposto de Renda para Pessoa Física (IRPF). O Ministério da Fazenda estima que aproximadamente 3,5 milhões de contribuintes receberão cerca de R$ 460 milhões em restituições. A consulta sobre essa restituição conhecida por cashback pode ser feita por meio do portal da Receita Federal no link Meu Imposto de Renda o",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/irpf-lote-especial-restituicao-de-restituicao-comeca-ser-pago-hoje",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 15 Jul 2026 08:44:00 -0300",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Brasil chama tarifa dos EUA de \"injusta\" em nova reunião",
+      "descricao": "O governo brasileiro voltou a classificar como \"injusta\" a possível imposição de novas tarifas pelos Estados Unidos sobre produtos nacionais durante reunião de alto nível realizada nesta terça-feira (14) com o representante estadunidense de Comércio, Jamieson Greer. O encontro ocorreu na véspera do prazo final para a decisão da administração do presidente Donald Trump sobre a adoção das sobretaxas",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-chama-tarifa-dos-eua-de-injusta-em-nova-reuniao",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 21:31:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Nova MP poderá ser editada, se EUA confirmarem tarifaço",
+      "descricao": "O governo poderá editar uma nova Medida Provisória (MP) para apoiar empresas brasileiras caso os Estados Unidos confirmem a aplicação de novas tarifas sobre produtos nacionais. A informação foi dada nesta terça-feira (14) pelo ministro da Fazenda, Dario Durigan, que afirmou que a medida será avaliada conforme os efeitos da eventual taxação sobre os setores exportadores. Segundo o ministro, uma eve",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/nova-mp-podera-ser-editada-se-eua-confirmarem-tarifaco",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 20:57:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "FGC ainda tem R$ 1,83 bi para devolver a clientes do grupo Master",
+      "descricao": "O Fundo Garantidor de Créditos (FGC) ainda tem um montante de R$ 1,83 bilhão reservado para investidores e correntistas de instituições ligadas ao grupo Master que ainda não pediram o reembolso. Segundo balanço divulgado nesta terça-feira (14), os recursos ainda podem ser resgatados pelo aplicativo do FGC. O FGC ressalta que o valor parado no fundo permanece sem nenhuma correção pela inflação desd",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/fgc-ainda-tem-r-183-bi-para-devolver-clientes-do-grupo-master",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Tue, 14 Jul 2026 20:28:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Durigan diz que tarifas dos EUA \"são infundadas\" e que espera que \"não venham\"",
+      "descricao": "Ministro da Fazenda destacou que, se o governo Trump confirmar a taxação, o Brasil estará preparado para lidar com a situação",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7461997-durigan-diz-que-tarifas-dos-eua-sao-infundadas-e-que-espera-que-nao-venham.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 15 Jul 2026 17:07:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Gasolina E32 entra em vigor em agosto; veja o que muda para o motorista",
+      "descricao": "A nova composição começará a valer em 1º de agosto por um período inicial de 180 dias, com possibilidade de prorrogação por mais seis meses",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7461852-gasolina-e32-entra-em-vigor-em-agosto-e-reacende-debate.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 15 Jul 2026 14:37:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Durigan diz que governo avaliará impacto de eventual tarifaço dos EUA",
+      "descricao": "Ministro da Fazenda afirma que ainda não há confirmação oficial das novas tarifas e garante que setores atingidos não serão deixados \"na mão\"",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7461780-durigan-diz-que-governo-avaliara-impacto-de-eventual-tarifaco-dos-eua.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 15 Jul 2026 13:25:46 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "Governo e Câmara fecham acordo para renegociar dívidas de produtores rurais",
+      "descricao": "Medida provisória permitirá parcelamento de débitos em até oito anos, com prazo ampliado para agricultores do Rio Grande do Sul",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7461791-governo-e-camara-fecham-acordo-para-renegociar-dividas-de-produtores-rurais.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 15 Jul 2026 13:24:24 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Prazo para decisão dos EUA sobre tarifaço contra o Brasil termina hoje",
+      "descricao": "Governo Trump conclui investigações que podem elevar para até 37,5% as tarifas sobre 4.187 produtos brasileiros",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7461650-prazo-para-decisao-dos-eua-sobre-tarifaco-contra-o-brasil-termina-hoje.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 15 Jul 2026 10:32:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)"
+      ]
+    },
+    {
+      "titulo": "MP do Frete: confira as principais mudanças após a aprovação no Senado",
+      "descricao": "Matéria aprovada em votação simbólica segue para sanção presidencial, mas sem o valor do piso dos caminhoneiros",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7461496-mp-do-frete-confira-as-principais-mudancas-apos-a-aprovacao-no-senado.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 15 Jul 2026 03:59:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    }
+  ]
+}

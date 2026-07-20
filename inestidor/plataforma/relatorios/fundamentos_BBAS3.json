@@ -1,0 +1,19 @@
+{
+  "ticker": "BBAS3",
+  "empresa": "BCO BRASIL S.A.",
+  "cd_cvm": "001023",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "14/07/2026",
+  "receita": 319462104000.0,
+  "receita_ant": 273505274000.0,
+  "receita_cresc": 16.8,
+  "lucro": 16781938000.0,
+  "lucro_ant": 29171564000.0,
+  "lucro_cresc": -42.5,
+  "margem_liquida": 5.3,
+  "ativo_total": 2455143253000.0,
+  "patrimonio_liquido": 38689885000.0,
+  "roe": 43.4,
+  "leitura": "O Banco do Brasil apresenta uma forte expansão na receita, porém o lucro líquido sofreu uma queda expressiva no último exercício, impactado por ajustes contábeis e provisões. Embora o ROE permaneça em patamar de excelência, a margem líquida estreita reflete a pressão sobre a rentabilidade operacional, exigindo cautela quanto à sustentabilidade do lucro frente ao cenário de inadimplência."
+}

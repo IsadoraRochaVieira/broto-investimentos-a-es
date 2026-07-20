@@ -1,0 +1,19 @@
+{
+  "ticker": "BBSE3",
+  "empresa": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
+  "cd_cvm": "023159",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "14/07/2026",
+  "receita": 0.0,
+  "receita_ant": 0.0,
+  "receita_cresc": null,
+  "lucro": 9017329000.0,
+  "lucro_ant": 8703353000.0,
+  "lucro_cresc": 3.6,
+  "margem_liquida": null,
+  "ativo_total": 23097696000.0,
+  "patrimonio_liquido": 10384393000.0,
+  "roe": 86.8,
+  "leitura": "A BB Seguridade apresenta uma trajetória de crescimento consistente no lucro líquido, sustentada por uma operação de altíssima eficiência e rentabilidade excepcional, evidenciada por um ROE de 86,8%. A qualidade dos resultados é robusta, porém o investidor deve monitorar a dependência da sinistralidade e o impacto das variações nas taxas de juros sobre o resultado financeiro da companhia."
+}

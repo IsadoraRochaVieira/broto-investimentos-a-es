@@ -1,0 +1,19 @@
+{
+  "ticker": "ANIM3",
+  "empresa": "ANIMA HOLDING S.A.",
+  "cd_cvm": "023248",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "17/07/2026",
+  "receita": 4023697000.0,
+  "receita_ant": 3801379000.0,
+  "receita_cresc": 5.8,
+  "lucro": 256665000.0,
+  "lucro_ant": 204444000.0,
+  "lucro_cresc": 25.5,
+  "margem_liquida": 6.4,
+  "ativo_total": 10173712000.0,
+  "patrimonio_liquido": 2833656000.0,
+  "roe": 9.1,
+  "leitura": null
+}

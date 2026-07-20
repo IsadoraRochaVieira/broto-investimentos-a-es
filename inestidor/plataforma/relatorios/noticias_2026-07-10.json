@@ -1,0 +1,457 @@
+{
+  "coletado_em": "10/07/2026 22:35",
+  "total": 30,
+  "urgentes": 0,
+  "destaque": {
+    "titulo": "Dólar fecha em queda, de olho em após inflação e tensões no Oriente Médio; Ibovespa sobe quase 3%",
+    "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda nesta sexta-feira (10), com um recuo de 0,28%, cotado a R$ 5,1084. Já o Ibovespa, principal índice da bolsa de valores brasileira, encerrou as negociações em alta de 2,97%, aos 177.866 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Os novos dados da inflação brasileira são o grande destaque do dia. Segundo o",
+    "link": "https://g1.globo.com/economia/noticia/2026/07/10/dolar-ibovespa.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
+    "cor": "#009c3b",
+    "urgencia": "media",
+    "score_relevancia": 6,
+    "pub_date": "Fri, 10 Jul 2026 12:00:30 -0000",
+    "setores": [
+      "Câmbio / Exportadores",
+      "Todos os ativos"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Dólar fecha em queda, de olho em após inflação e tensões no Oriente Médio; Ibovespa sobe quase 3%",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda nesta sexta-feira (10), com um recuo de 0,28%, cotado a R$ 5,1084. Já o Ibovespa, principal índice da bolsa de valores brasileira, encerrou as negociações em alta de 2,97%, aos 177.866 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Os novos dados da inflação brasileira são o grande destaque do dia. Segundo o",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/10/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Fri, 10 Jul 2026 12:00:30 -0000",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Bolsa sobe quase 3% e fecha no maior nível desde maio",
+      "descricao": "Beneficiado pelo exterior e pela inflação mais baixa que o esperado no Brasil, o mercado financeiro brasileiro encerrou a sexta-feira (10) em tom positivo. A bolsa avançou quase 3% e atingiu o maior nível desde maio. O dólar caiu pela terceira sessão consecutiva e voltou a fechar na faixa de R$ 5,10. O principal fator para o desempenho dos ativos domésticos foi a divulgação do Índice Nacional de P",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/bolsa-sobe-quase-3-e-fecha-no-maior-nivel-desde-maio",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 10 Jul 2026 19:51:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Imposto de 12% sobre exportação de petróleo é estendido por 60 dias",
+      "descricao": "Por mais dois meses, as exportações de petróleo bruto e minerais betuminosos (rochas e substâncias ricas em hidrocarbonetos) continuarão a ser tributadas. O Comitê Executivo de Gestão da Câmara de Comércio Exterior (Gecex-Camex) decidiu, nesta quinta-feira (9), manter em 12% a alíquota do Imposto de Exportação sobre esses produtos. Anunciada pelo Ministério do Desenvolvimento, Indústria, Comércio ",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/imposto-de-12-sobre-exportacao-de-petroleo-e-estendido-por-60-dias",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Thu, 09 Jul 2026 20:09:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Haddad, sobre taxa de juros: Banco Central está criando problema desnecessariamente",
+      "descricao": "Haddad disse ainda que a Selic não precisava ter alcançado 15% no ano passado e que o BC deveria ter iniciado o ciclo de cortes mais cedo The post Haddad, sobre taxa de juros: Banco Central está criando problema desnecessariamente appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/haddad-sobre-taxa-de-juros-banco-central-esta-criando-problema-desnecessariamente/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Sat, 11 Jul 2026 01:30:04 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Dólar cai ao menor nível em três semanas; bolsa sobe 1,22%",
+      "descricao": "Apesar da continuidade das tensões entre Estados Unidos e Irá, o dólar fechou em queda nesta quinta-feira (9) e atingiu o menor valor em três semanas. A bolsa de valores voltou a subir, e o petróleo recuou mais de 2% no mercado internacional. Os três mercados refletiram a melhora do apetite global por risco, com apostas de que a retomada dos conflitos no Oriente Médio não será duradoura. Principai",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-ao-menor-nivel-em-tres-semanas-bolsa-sobe-122",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Thu, 09 Jul 2026 19:45:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Movimento de navios cai no Estreito de Ormuz em meio à escalada de tensão entre EUA e Irã",
+      "descricao": "Estreito de Ormuz Reuters/Stringer O movimento de navios no Estreito de Ormuz, rota por onde passa cerca de 20% de todo o comércio global de petróleo, diminuiu nesta semana, em meio à escalada das tensões entre os Estados Unidos e o Irã. Dados de rastreamento marítimo mostraram que apesar de pelo menos 22 embarcações — todas ligadas ao Japão — terem deixado o Golfo desde terça-feira (7), o tráfego",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/10/estreito-de-ormuz-navios.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 12:16:49 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)",
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Preço dos alimentos: o que ficou mais caro e o que barateou no 1º semestre",
+      "descricao": "Preço dos alimentos: o que ficou mais caro e o que barateou no 1º semestre O Índice Nacional de Preços ao Consumidor Amplo (IPCA), considerado a inflação oficial do país, subiu 0,16% em junho, segundo dados divulgados nesta sexta-feira (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Entre os grupos pesquisados, a Habitação teve a maior alta de preços no mês e foi o que mais press",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/10/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-no-1o-semestre.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 12:01:02 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "IPCA: Inflação desacelera para 0,16% em junho com queda dos alimentos; conta de luz segue pressionando",
+      "descricao": "Inflação ALOISIO MAURICIO/FOTOARENA/FOTOARENA/ESTADÃO CONTEÚDO O Índice Nacional de Preços ao Consumidor Amplo (IPCA), considerado a inflação oficial do país, subiu 0,16% em junho, segundo dados divulgados nesta sexta-feira (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). 🗒️Tem alguma sugestão de reportagem? Mande para o g1 O resultado de junho mostra uma desaceleração da inflação",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/10/ipca-inflacao-junho.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 12:00:30 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Shein avança com IPO em Hong Kong após tentativas frustradas em Londres e Nova York",
+      "descricao": "Shein Reuters Após tentativas frustradas de abrir capital nas bolsas de Londres e Nova York, a varejista de moda online Shein avançou nesta sexta-feira (10) em sua oferta pública inicial de ações (IPO, na sigla em inglês), ao obter a aprovação de reguladores chineses para a listagem em Hong Kong. As informações foram publicadas no site da Comissão Reguladora de Valores Mobiliários da China (CSRC).",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/10/shein-ipo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 11:36:10 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Preço de alimentos recua, e inflação oficial de junho fica em 0,16%",
+      "descricao": "Os preços dos alimentos tiveram a primeira queda desde novembro de 2025 e ajudaram a inflação oficial fechar o mês de junho em 0,16%. O resultado mensal do Índice Nacional de Preços ao Consumidor Amplo (IPCA) é o menor desde outubro de 2025 . O dado de junho mostra que a inflação perdeu força pelo quarto mês seguido. Em maio, o índice era de 0,58%. Em 12 meses, o IPCA soma 4,64%, ainda acima da me",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/preco-de-alimentos-recua-e-inflacao-oficial-de-junho-fica-em-016",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 10:08:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Fintechs são notificadas por operar recursos de bets ilegais",
+      "descricao": "O Ministério da Fazenda notificou 37 fintechs suspeitas de intermediar recursos de casas de apostas ilegais e determinou que as instituições interrompam qualquer relação financeira com essas empresas. A medida é uma das ações do governo para combater o mercado clandestino de bets e prevê o bloqueio dos valores movimentados, que poderão ser destinados aos cofres públicos caso as novas regras não se",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/fintechs-sao-notificadas-por-operar-recursos-de-bets-ilegais",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 09 Jul 2026 17:34:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Alimentos aliviam inflação em junho; confira os destaques",
+      "descricao": "Café, frutas e carnes ficaram mais baratos e ajudaram a conter o IPCA, enquanto feijão-carioca e batata-inglesa registraram alta no mês",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7458790-alimentos-aliviam-inflacao-em-junho-confira-os-destaques.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 11:35:00 -0300",
+      "setores": [
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)"
+      ]
+    },
+    {
+      "titulo": "IPCA desacelera para 0,16% em junho com queda no preço dos alimentos",
+      "descricao": "Inflação perde força em relação aos 0,58% de maio. Alimentação e bebidas registra deflação de 0,24%, enquanto habitação exerce a maior pressão de alta sobre o índice",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7458737-ipca-desacelera-para-016-em-junho-com-queda-no-preco-dos-alimentos.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 10:10:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Bets terão anúncio com \"tarja preta\"; entenda as novas regras",
+      "descricao": "Fazenda publica regulamento mais rígido para a publicidade das jogatinas, com punições e mecanismos de fiscalização",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7458624-bets-terao-anuncio-com-tarja-preta-entenda-as-novas-regras.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 03:59:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Governo adia decisão sobre subsídios à gasolina para próxima semana",
+      "descricao": "Ministro da Fazenda, Dario Durigan, afirma que o governo postergou a definição da retirada da subvenção à gasolina para a próxima semana, e qualquer mudança será calibrada de acordo com a evolução dos preços internacionais do petróleo",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7458622-governo-adia-decisao-sobre-subsidios-a-gasolina-para-proxima-semana.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 03:57:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)"
+      ]
+    },
+    {
+      "titulo": "Governo mantém imposto de 12% sobre exportação de petróleo",
+      "descricao": "Camex justifica medida pela escalada das tensões no Oriente Médio e pelo risco ao abastecimento de combustíveis. IBP critica decisão e aponta insegurança para investimentos no setor",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7458323-governo-mantem-imposto-de-12-sobre-exportacao-de-petroleo.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 9 Jul 2026 15:08:00 -0300",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "EUA ampliam sanções ao núcleo financeiro do líder supremo do Irã",
+      "descricao": "Tesouro mira operador ligado a Khamenei e casas de câmbio após ataques em Ormuz The post EUA ampliam sanções ao núcleo financeiro do líder supremo do Irã appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/eua-ampliam-sancoes-ao-nucleo-financeiro-do-lider-supremo-do-ira/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 22:49:29 +0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Governo publica portaria que define alertas de publicidade de bets: 'apostar pode causar dependência'",
+      "descricao": "O Ministério da Fazenda publicou nesta sexta-feira (10) uma portaria que estabelece novas regras para publicidade de apostas online — conhecidas como bets —, e estabelece que toda publicidade de bet será acompanhada de uma advertência, semelhante com o que acontece com propagandas de cigarros e bebidas alcoólicas. O texto define que as publicidades devem alertar sobre os riscos associados de depen",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/10/governo-publica-portaria-que-define-alertas-de-publicidade-de-bets-apostar-pode-causar-dependencia.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 11 Jul 2026 00:55:24 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Apple processa OpenAI e acusa rival de roubar informações secretas para criar novos produtos",
+      "descricao": "Quem é o funcionário mais antigo da Apple que ganhou ações, hoje avaliadas em milhões A Apple entrou com uma ação judicial nesta sexta-feira (10) contra a OpenAI e dois ex-funcionários, acusando a empresa responsável pelo ChatGPT de se beneficiar de informações confidenciais da fabricante do iPhone para avançar em sua entrada no mercado de dispositivos eletrônicos. O processo, apresentado no Tribu",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/10/apple-processa-openai-alegando-apropriacao-indevida-de-segredos-comerciais.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 20:40:14 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Governo Trump impõe novas sanções ao Irã e inclui banqueiro entre os alvos",
+      "descricao": "O presidente dos EUA, Donald Trump, reage enquanto fala com a imprensa no dia da cúpula de líderes da OTAN em Ancara, Turquia, em 8 de julho de 2026 REUTERS/Umit Bektas Os Estados Unidos anunciaram nesta sexta-feira (10) novas sanções relacionadas ao Irã em meio à escalada das tensões no Oriente Médio. As medidas têm como alvo Ali Ansari, banqueiro e empresário iraniano radicado em Dubai, além de ",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/10/governo-trump-sancoes-ira.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 20:02:09 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Linha de crédito do Move Brasil para mototaxistas e entregadores de app é adiada para 27 de julho",
+      "descricao": "O Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic) adiou para 27 de julho o início das operações da linha de crédito, em bancos públicos, destinada a mototaxistas e entregadores de aplicativos, dentro do programa Move Brasil. Segundo o governo, o financiamento, que começaria em 13 de julho, teve o cronograma alterado para permitir a conclusão de testes tecnológicos e operaciona",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/10/linha-de-credito-do-move-brasil-para-entregadores-e-motoristas-de-app-e-adiada-para-27-de-julho.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 14:27:46 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)"
+      ]
+    },
+    {
+      "titulo": "Sensores, IA e VAR: aposta da Fifa em tecnologia gera polêmicas na Copa do Mundo",
+      "descricao": "Folarin Balogun, dos EUA, recebe cartão vermelho do árbitro Raphael Claus. Phil Noble/Reuters Se o presidente da Fifa, Gianni Infantino, esperava que a tecnologia ajudasse a reduzir as controvérsias da arbitragem, a Copa do Mundo mostrou que o debate está longe de terminar. O uso da tecnologia esteve no centro das principais polêmicas do torneio, incluindo a expulsão de Folarin Balogun, caso que c",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/10/fifa-tecnologia-copa-do-mundo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 13:16:44 -0000",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Trabalhadores barram plano de reestruturação da Volkswagen, diz agência",
+      "descricao": "Fábrica da Volkswagen em São Bernardo do Campo (SP), onde são produzidos quatro modelos da marca. Celso Tavares/g1 Representantes dos trabalhadores da Volkswagen bloquearam um amplo plano de reestruturação da empresa na Alemanha, disseram duas fontes à Reuters nesta sexta-feira. O episódio evidencia as dificuldades enfrentadas pelo presidente-executivo Oliver Blume para reformular a maior montador",
+      "link": "https://g1.globo.com/carros/noticia/2026/07/10/trabalhadores-barram-plano-de-reestruturacao-da-volkswagen.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 13:03:44 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Em resposta a empresários, Itamaraty diz que segue 'empenhado' em negociações sobre tarifaço",
+      "descricao": "O Ministério das Relações Exteriores (Itamaraty) afirmou nesta sexta-feira (10) que segue “empenhado” nas negociações com autoridades dos Estados Unidos para tentar reverter o tarifaço proposto pelo escritório do representante comercial do país (USTR, na sigla em inglês) contra produtos brasileiros vendidos no mercado americano. O prazo para um acordo entre os dois países acaba em 15 de julho. A a",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/10/apos-pedido-de-empresarios-itamaraty-diz-que-segue-empenhado-em-negociacoes-sobre-tarifaco.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 12:00:05 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Juros do Fies Empreendedor incidirão durante período de carência",
+      "descricao": "Os tomadores de crédito do Fies Empreendedor, voltado a estudantes e ex-estudantes adimplentes do Fundo de Financiamento Estudantil (Fies), pagarão juros referentes ao período de carência. Em reunião extraordinária nesta sexta-feira (10), o Conselho Monetário Nacional (CMN) aprovou uma mudança na regulamentação do programa. A regulamentação anterior, aprovada no último dia 3 , cancelava a incidênc",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/juros-do-fies-empreendedor-incidirao-durante-periodo-de-carencia",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 19:31:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Educação (COGN3, YDUQ3)"
+      ]
+    },
+    {
+      "titulo": "Prazo de crédito antecipado para exportadores é ampliado",
+      "descricao": "Os exportadores poderão ter acesso a crédito antecipado até pouco mais de dois anos antes do embarque da mercadoria. Em reunião extraordinária nesta sexta-feira (10), o Conselho Monetário Nacional (CMN) aprovou uma mudança nas regras do Programa de Financiamento às Exportações (Proex) que amplia o prazo para liberação de recursos aos exportadores antes do embarque de produtos ou da prestação de se",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/prazo-de-credito-antecipado-para-exportadores-e-ampliado",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 19:03:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "CNI pede negociação para evitar tarifas dos EUA",
+      "descricao": "Em carta conjunta, a Confederação Nacional da Indústria (CNI), a Amcham e o U.S. Chamber pedem para autoridades defenderem a relação comercial estratégica entre os países e propor uma agenda de negociação estruturada em duas etapas, com foco em evitar a aplicação de tarifas adicionais na exportação de produtos brasileiros e tornar mais forte a relação comercial. O posicionamento ocorreu após a int",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cni-pede-negociacao-para-evita-tarifas-dos-eua",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 12:41:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Inflação usada para corrigir salários acumula 4,33% em 12 meses",
+      "descricao": "A inflação medida pelo Índice Nacional de Preços ao Consumidor (INPC) fechou o mês de junho em 0,14% e acumula 4,33% nos últimos 12 meses. O indicador interessa a diversas categorias profissionais pois serve de base para cálculo de reajuste salariais. Os dados foram divulgados nesta sexta-feira (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Notícias relacionadas: Preço de alimen",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/inflacao-usada-para-corrigir-salarios-acumula-433-em-12-meses",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 11:10:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    },
+    {
+      "titulo": "Operação apura fraudes em benefícios do INSS para indígenas na Bahia",
+      "descricao": "A Polícia Federal (PF) deflagrou nesta quinta-feira (9) uma operação contra fraudes previdenciárias na Bahia. A ação, realizada em conjunto com a Controladoria-Geral da União (CGU), visa combater um esquema de fraudes na concessão de benefícios previdenciários para segurados especiais indígenas. Foram cumpridos 11 mandados de busca e apreensão nos municípios baianos de Eunápolis e de Porto Seguro,",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/operacao-apura-fraudes-em-beneficios-do-inss-para-indigenas-na-bahia",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 18:09:00 -0300",
+      "setores": [
+        "Agro (SLCE3, SMTO3, AGRO3, RAIZ4)",
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Lula reforça \"dedo do governo\" em exploração de minerais críticos no Brasil",
+      "descricao": "Exploração de minerais críticos foi tema de de reunião interministerial comanda pelo presidente, nesta sexta (10/7). Petista disse ainda que governo poderá criar novos laboratórios focados no setor",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7459051-lula-reforca-dedo-do-governo-em-exploracao-de-minerais-criticos-no-brasil.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 17:10:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    }
+  ]
+}

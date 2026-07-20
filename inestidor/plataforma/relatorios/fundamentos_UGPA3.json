@@ -1,0 +1,19 @@
+{
+  "ticker": "UGPA3",
+  "empresa": "ULTRAPAR PARTICIPACOES S.A.",
+  "cd_cvm": "018465",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "14/07/2026",
+  "receita": 142369540000.0,
+  "receita_ant": 133498913000.0,
+  "receita_cresc": 6.6,
+  "lucro": 2541908000.0,
+  "lucro_ant": 2525900000.0,
+  "lucro_cresc": 0.6,
+  "margem_liquida": 1.8,
+  "ativo_total": 49348994000.0,
+  "patrimonio_liquido": 17730617000.0,
+  "roe": 14.3,
+  "leitura": "A Ultrapar apresenta crescimento moderado na receita, porém com lucro líquido praticamente estagnado e margens operacionais bastante comprimidas, refletindo a natureza de baixo valor agregado do setor de distribuição. O ROE de 14,3% é satisfatório para o perfil da companhia, mas o alerta reside na fragilidade da margem líquida de 1,8%, que torna o resultado final altamente sensível a variações de custos e volatilidade do mercado."
+}

@@ -1,0 +1,463 @@
+{
+  "coletado_em": "13/07/2026 13:03",
+  "total": 30,
+  "urgentes": 0,
+  "destaque": {
+    "titulo": "Mercado financeiro reduz para 5,16% estimativa média de inflação em 2026",
+    "descricao": "O mercado financeiro reduziu sua estimativa média para a inflação em 2026, passando de 5,30% para 5,16%. A expectativa faz parte do \"Boletim Focus\", divulgado nesta segunda-feira (13) pelo Banco Central (BC), com base em pesquisa realizada na última semana com mais de 100 instituições financeiras. Os economistas também mantiveram a projeção de 14% em relação à taxa básica de juros, a Selic (veja m",
+    "link": "https://g1.globo.com/economia/noticia/2026/07/13/mercado-financeiro-reduz-para-516percent-estimativa-media-de-inflacao-em-2026.ghtml",
+    "fonte": "G1 Economia",
+    "categoria": "Economia",
+    "cor": "#009c3b",
+    "urgencia": "media",
+    "score_relevancia": 5,
+    "pub_date": "Mon, 13 Jul 2026 11:57:08 -0000",
+    "setores": [
+      "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+      "Telecom (VIVT3, TIMS3)",
+      "Todos os ativos"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Mercado financeiro reduz para 5,16% estimativa média de inflação em 2026",
+      "descricao": "O mercado financeiro reduziu sua estimativa média para a inflação em 2026, passando de 5,30% para 5,16%. A expectativa faz parte do \"Boletim Focus\", divulgado nesta segunda-feira (13) pelo Banco Central (BC), com base em pesquisa realizada na última semana com mais de 100 instituições financeiras. Os economistas também mantiveram a projeção de 14% em relação à taxa básica de juros, a Selic (veja m",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/13/mercado-financeiro-reduz-para-516percent-estimativa-media-de-inflacao-em-2026.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Mon, 13 Jul 2026 11:57:08 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar opera em alta, com tensões entre EUA e Irã no foco; Ibovespa cai",
+      "descricao": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta segunda-feira (13), com um avanço de 0,31% perto das 10h30, cotado a R$ 5,1243, conforme investidores seguiam atentos às tensões no Oriente Médio. Já o Ibovespa, principal índice da bolsa brasileira, operava em queda de 0,04% no mesmo horário, aos 177.789 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ A ",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/13/dolar-ibovespa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Mon, 13 Jul 2026 12:00:42 -0000",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Boletim Focus: mercado reduz expectativa de inflação para 5,16%",
+      "descricao": "Pela segunda semana consecutiva, o mercado financeiro reduz a expectativa de inflação no Brasil em 2026. Segundo o boletim Focus, divulgado nesta segunda-feira pelo Banco Central, o Índice Nacional de Preços ao Consumidor Amplo (IPCA) projetado para o ano caiu para 5,16%. Na semana passada, o mercado projetava uma inflação ligeiramente maior, de 5,30%. Os demais índices projetados pelo boletim par",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/boletim-focus-mercado-reduz-para-516-expectativa-de-inflacao",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Mon, 13 Jul 2026 11:07:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Bolsa sobe quase 3% e fecha no maior nível desde maio",
+      "descricao": "Beneficiado pelo exterior e pela inflação mais baixa que o esperado no Brasil, o mercado financeiro brasileiro encerrou a sexta-feira (10) em tom positivo. A bolsa avançou quase 3% e atingiu o maior nível desde maio. O dólar caiu pela terceira sessão consecutiva e voltou a fechar na faixa de R$ 5,10. O principal fator para o desempenho dos ativos domésticos foi a divulgação do Índice Nacional de P",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/bolsa-sobe-quase-3-e-fecha-no-maior-nivel-desde-maio",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Fri, 10 Jul 2026 19:51:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar forte está de volta? Como o mercado pode reagir – e quais ações devem ganhar",
+      "descricao": "BofA e Genial apontam que a combinação de juros mais altos nos EUA, fluxo para tecnologia americana e incertezas domésticas favorece a moeda americana; exportadoras brasileiras aparecem entre as principais beneficiadas The post Dólar forte está de volta? Como o mercado pode reagir &#8211; e quais ações devem ganhar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-forte-esta-de-volta-como-o-mercado-pode-reagir-e-quais-acoes-devem-ganhar/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 13 Jul 2026 15:42:17 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Boletim Focus: mercado reduz projeção para inflação de 2026",
+      "descricao": "Apesar do recuo para 5,16%, estimativa de inflação continua acima do teto da meta do CMN. Mercado mantém estimativas para juros e câmbio",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7460092-boletim-focus-mercado-reduz-projecao-para-inflacao-de-2026.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Mon, 13 Jul 2026 10:22:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Petróleo brent sobe mais de 4% com escalada de tensões por Estreito de Ormuz",
+      "descricao": "Irã intensifica ataques a bases dos EUA no Golfo The post Petróleo brent sobe mais de 4% com escalada de tensões por Estreito de Ormuz appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-13072026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 13 Jul 2026 15:21:42 +0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Aviação & Logística (AZUL4, GOLL4, RAIL3)"
+      ]
+    },
+    {
+      "titulo": "Trump ganhou US$ 1,4 bilhão com criptomoedas e colocou parte do dinheiro em ações e títulos, diz agência",
+      "descricao": "Conflito de interesses? Empresas de Trump têm receita bilionária em 2025 As declarações financeiras do presidente dos Estados Unidos, Donald Trump, mostram que ele e seus dois filhos mais velhos incentivavam investidores a aplicar recursos em projetos de criptomoedas — iniciativas que acabaram gerando grandes perdas para muitos investidores de varejo. Ao mesmo tempo, os administradores do patrimôn",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/13/trump-criptomoedas-investimentos.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Mon, 13 Jul 2026 11:05:26 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "Preço de alimentos recua, e inflação oficial de junho fica em 0,16%",
+      "descricao": "Os preços dos alimentos tiveram a primeira queda desde novembro de 2025 e ajudaram a inflação oficial fechar o mês de junho em 0,16%. O resultado mensal do Índice Nacional de Preços ao Consumidor Amplo (IPCA) é o menor desde outubro de 2025 . O dado de junho mostra que a inflação perdeu força pelo quarto mês seguido. Em maio, o índice era de 0,58%. Em 12 meses, o IPCA soma 4,64%, ainda acima da me",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/preco-de-alimentos-recua-e-inflacao-oficial-de-junho-fica-em-016",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 10:08:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Alimentos aliviam inflação em junho; confira os destaques",
+      "descricao": "Café, frutas e carnes ficaram mais baratos e ajudaram a conter o IPCA, enquanto feijão-carioca e batata-inglesa registraram alta no mês",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7458790-alimentos-aliviam-inflacao-em-junho-confira-os-destaques.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 11:35:00 -0300",
+      "setores": [
+        "Frigoríficos (JBSS3, MRFG3, BEEF3)"
+      ]
+    },
+    {
+      "titulo": "IPCA desacelera para 0,16% em junho com queda no preço dos alimentos",
+      "descricao": "Inflação perde força em relação aos 0,58% de maio. Alimentação e bebidas registra deflação de 0,24%, enquanto habitação exerce a maior pressão de alta sobre o índice",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7458737-ipca-desacelera-para-016-em-junho-com-queda-no-preco-dos-alimentos.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 10:10:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Bets terão anúncio com \"tarja preta\"; entenda as novas regras",
+      "descricao": "Fazenda publica regulamento mais rígido para a publicidade das jogatinas, com punições e mecanismos de fiscalização",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7458624-bets-terao-anuncio-com-tarja-preta-entenda-as-novas-regras.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 10 Jul 2026 03:59:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Dólar sobe ante real com investidores de olho em novas tensões no Oriente Médio",
+      "descricao": "Forças dos EUA e do Irã ⁠trocaram ataques intensos com mísseis e drones durante o fim de semana The post Dólar sobe ante real com investidores de olho em novas tensões no Oriente Médio appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-13072026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 15:56:11 +0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Processo da Apple contra OpenAI já ameaça projeto de concorrente do iPhone",
+      "descricao": "Disputa por propriedade intelectual pode esfriar contratações e atrasar estratégia da empresa de Sam Altman em hardware The post Processo da Apple contra OpenAI já ameaça projeto de concorrente do iPhone appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/processo-da-apple-contra-openai-ja-ameaca-projeto-de-concorrente-do-iphone/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 15:40:12 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "SUZB3: JPMorgan reitera preferência por Suzano em meio a riscos climáticos do El Niño",
+      "descricao": "Suzano aparece como a empresa mais protegida e a principal beneficiária em um cenário de preços mais elevados The post SUZB3: JPMorgan reitera preferência por Suzano em meio a riscos climáticos do El Niño appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/suzb3-jpmorgan-reitera-preferencia-por-suzano-em-meio-a-riscos-climaticos-do-el-nino/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 15:30:14 +0000",
+      "setores": [
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "O que se sabe sobre a greve dos caminhoneiros, anunciada nesta segunda-feira (13)",
+      "descricao": "Categoria pressiona Senado para votação da Medida Provisória do Piso do Frete, que perde validade na quinta-feira (16) The post O que se sabe sobre a greve dos caminhoneiros, anunciada nesta segunda-feira (13) appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/o-que-se-sabe-sobre-a-greve-dos-caminhoneiros-anunciada-nesta-segunda-feira-13/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 15:27:22 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Stellantis registra alta de 10% nas entregas globais de veículos no 2º trimestre",
+      "descricao": "Linha de produção do Fiat Cronos no complexo de Ferreyra, na Argentina Divulgação / Stellantis A Stellantis, dona de marcas como Fiat, Jeep, Peugeot, Citroën e Ram, anunciou nesta segunda-feira (13) que entregou quase 1,6 milhão de veículos no segundo trimestre, alta de 10% em relação ao mesmo período de 2025. O crescimento foi impulsionado principalmente pelo forte desempenho na América do Norte,",
+      "link": "https://g1.globo.com/carros/noticia/2026/07/13/stellantis-registra-alta-nas-entregas-globais-de-veiculos.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 14:45:56 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "IA pode transformar a economia mais rápido que a Revolução Industrial, alertam especialistas",
+      "descricao": "Logotipo da OpenAI em um celular diante de uma imagem gerada pelo DALL·E, ferramenta de criação de imagens do ChatGPT. Michael Dwyer/AP Mais de 200 pesquisadores e economistas, incluindo 15 ganhadores do Prêmio Nobel e pesquisadores da OpenAI, da Anthropic e do Google, apelaram aos governos e aos líderes do setor de tecnologia para que criem, com urgência, políticas e instituições destinadas a lid",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/13/ia-pode-transformar-a-economia-mais-rapido-que-a-revolucao-industrial-alertam-especialistas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 13:38:38 -0000",
+      "setores": [
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Petróleo sobe mais de 3% após escalada do conflito entre EUA e Irã e novo fechamento do Estreito de Ormuz",
+      "descricao": "EUA lançam novos ataques contra o Irã Os preços do petróleo subiam mais de 3% nesta segunda-feira (13), refletindo a escalada do conflito entre Estados Unidos e Irã. A alta foi impulsionada pela intensificação dos ataques entre os dois países no fim de semana e pela decisão de Teerã de voltar a fechar o Estreito de Ormuz, uma das principais rotas de transporte de petróleo do mundo. (confira a cobe",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/13/ira-ataques-eua-petroleo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 10:48:11 -0000",
+      "setores": [
+        "Petróleo & Gás (PETR4, PRIO3, RECV3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)"
+      ]
+    },
+    {
+      "titulo": "Países europeus e Japão doam US$ 1 bilhão para recuperação de Gaza",
+      "descricao": "Hamas anuncia que vai entregar o governo da Faixa de Gaza A Comissão Europeia anunciou nesta segunda-feira (13) o lançamento de uma iniciativa com 15 parceiros para destinar 883,6 milhões de euros, o equivalente a US$ 1 bilhão, em ajuda à Faixa de Gaza. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp De acordo com comunicado divulgado a imprensa, 12 países europeus e o Japão, além do B",
+      "link": "https://g1.globo.com/mundo/noticia/2026/07/13/paises-europeus-e-japao-doam-us-1-bilhao-para-recuperacao-de-gaza.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 10:43:22 -0000",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Volkswagen pode cortar mais 50 mil empregos e elevar total de demissões para 100 mil",
+      "descricao": "Volkswagen Taos muda para encarar SUVs concorrentes A Volkswagen poderá precisar cortar cerca de 50 mil empregos adicionais para alcançar um nível de competitividade semelhante ao de seus concorrentes, afirmou o presidente-executivo da montadora, Oliver Blume, em um comunicado interno enviado aos funcionários. A declaração confirma, pela primeira vez, que a empresa avalia eliminar até 100 mil post",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/13/volkswagen-pode-cortar-mais-50-mil-empregos-e-elevar-total-de-demissoes-para-100-mil.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 10:33:39 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)"
+      ]
+    },
+    {
+      "titulo": "Waze ganha IA para motoristas conversarem com o app, modo moto e novo controle de voz no Brasil",
+      "descricao": "Waze ganha IA para motoristas conversarem com o app, modo moto e novo controle de voz no Brasil. Google O app de navegação Waze anunciou nesta segunda-feira (13) uma série de novos recursos de inteligência artificial para o serviço no Brasil. Entre as novidades está uma ferramenta que permite conversar com o app em linguagem natural para enviar atualizações para o mapa. A empresa também está lança",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/13/waze-ganha-ia-para-motoristas-conversarem-com-o-app-modo-moto-e-novo-controle-de-voz-no-brasil.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 09:00:34 -0000",
+      "setores": [
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "IA ainda não provoca queda generalizada do emprego, mas dificulta entrada de jovens, diz OCDE",
+      "descricao": "Inteligência Artificial no trabalho: até onde ela ajuda ou atrapalha? Reprodução/Freepik A inteligência artificial não está provocando uma \"queda generalizada\" do emprego nos países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), onde a taxa de desemprego se mantém próxima de seu mínimo histórico. As informações são do relatório sobre as perspectivas do emprego para 2026 publi",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/13/ia-ainda-nao-provoca-queda-generalizada-do-emprego-mas-dificulta-entrada-de-jovens-diz-ocde.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 06:00:31 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Pesquisa afasta ideia de que startups e empreendedorismo são apenas para jovens",
+      "descricao": "Jovens empreendedores: eles criam soluções, movimentam a economia e constroem o futuro O mercado de trabalho brasileiro está passando por uma transformação profunda. Cada vez mais jovens decidem pular a busca pelo primeiro emprego formal para abrir o próprio negócio. Dados recentes mostram que o número de empreendedores com até 29 anos subiu de 3,9 milhões em 2012 para 4,9 milhões em 2024. Esse mo",
+      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/07/13/pesquisa-afasta-ideia-de-que-startups-e-empreendedorismo-sao-apenas-para-jovens.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 06:00:29 -0000",
+      "setores": [
+        "Varejo & Consumo (MGLU3, LREN3, ASAI3, ABEV3)",
+        "Saúde (HAPV3, RDOR3, FLRY3)",
+        "Tecnologia (TOTS3, LWSA3, POSI3)"
+      ]
+    },
+    {
+      "titulo": "Cidade do Rio proíbe publicidade de bets em espaços públicos",
+      "descricao": "Um decreto publicado nesta segunda-feira (13) pela prefeitura do Rio de Janeiro proíbe a veiculação de publicidade de plataformas de apostas, as chamadas bets , em espaços públicos da cidade. A proibição atinge locais onde há publicidade exterior, mobiliário urbano e demais locais cuja exploração dependa de autorização, licença, permissão ou concessão do município. Entre os objetivos do decreto es",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cidade-do-rio-proibe-publicidade-de-bets-em-espacos-publicos",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Mon, 13 Jul 2026 09:27:00 -0300",
+      "setores": [
+        "Mineração & Siderurgia (VALE3, CSNA3, GGBR4, USIM5)"
+      ]
+    },
+    {
+      "titulo": "Novas regras proíbem publicidade de bets com promessa de ganho fácil",
+      "descricao": "Foram publicadas nesta sexta-feira (10) à noite as novas regras para a publicidade das plataformas de apostas esportivas, as chamadas bets. As medidas, que entram em vigor em 17 de julho, tornam obrigatória a exibição de advertências do Ministério da Fazenda em todas as campanhas e ampliam as restrições ao conteúdo das propagandas, com proibição de anúncios que incentivem apostas como forma de gan",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/Novas-regras-proibem-publicidade-de-bets-com-promessa-de-ganho-f%C3%A1cil",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 11 Jul 2026 10:10:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Juros do Fies Empreendedor incidirão durante período de carência",
+      "descricao": "Os tomadores de crédito do Fies Empreendedor, voltado a estudantes e ex-estudantes adimplentes do Fundo de Financiamento Estudantil (Fies), pagarão juros referentes ao período de carência. Em reunião extraordinária nesta sexta-feira (10), o Conselho Monetário Nacional (CMN) aprovou uma mudança na regulamentação do programa. A regulamentação anterior, aprovada no último dia 3 , cancelava a incidênc",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/juros-do-fies-empreendedor-incidirao-durante-periodo-de-carencia",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 19:31:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Telecom (VIVT3, TIMS3)",
+        "Educação (COGN3, YDUQ3)"
+      ]
+    },
+    {
+      "titulo": "Prazo de crédito antecipado para exportadores é ampliado",
+      "descricao": "Os exportadores poderão ter acesso a crédito antecipado até pouco mais de dois anos antes do embarque da mercadoria. Em reunião extraordinária nesta sexta-feira (10), o Conselho Monetário Nacional (CMN) aprovou uma mudança nas regras do Programa de Financiamento às Exportações (Proex) que amplia o prazo para liberação de recursos aos exportadores antes do embarque de produtos ou da prestação de se",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/prazo-de-credito-antecipado-para-exportadores-e-ampliado",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 19:03:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4, BBAS3, SANB11, B3SA3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "CNI pede negociação para evitar tarifas dos EUA",
+      "descricao": "Em carta conjunta, a Confederação Nacional da Indústria (CNI), a Amcham e o U.S. Chamber pedem para autoridades defenderem a relação comercial estratégica entre os países e propor uma agenda de negociação estruturada em duas etapas, com foco em evitar a aplicação de tarifas adicionais na exportação de produtos brasileiros e tornar mais forte a relação comercial. O posicionamento ocorreu após a int",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cni-pede-negociacao-para-evita-tarifas-dos-eua",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 12:41:00 -0300",
+      "setores": [
+        "Energia Elétrica (ELET3, CPFE3, CMIG4, EQTL3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Inflação usada para corrigir salários acumula 4,33% em 12 meses",
+      "descricao": "A inflação medida pelo Índice Nacional de Preços ao Consumidor (INPC) fechou o mês de junho em 0,14% e acumula 4,33% nos últimos 12 meses. O indicador interessa a diversas categorias profissionais pois serve de base para cálculo de reajuste salariais. Os dados foram divulgados nesta sexta-feira (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Notícias relacionadas: Preço de alimen",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/inflacao-usada-para-corrigir-salarios-acumula-433-em-12-meses",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 10 Jul 2026 11:10:00 -0300",
+      "setores": [
+        "Telecom (VIVT3, TIMS3)"
+      ]
+    }
+  ]
+}

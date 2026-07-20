@@ -1,0 +1,19 @@
+{
+  "ticker": "PETR4",
+  "empresa": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+  "cd_cvm": "009512",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "14/07/2026",
+  "receita": 497549000000.0,
+  "receita_ant": 490829000000.0,
+  "receita_cresc": 1.4,
+  "lucro": 110605000000.0,
+  "lucro_ant": 37009000000.0,
+  "lucro_cresc": 198.9,
+  "margem_liquida": 22.2,
+  "ativo_total": 1223389000000.0,
+  "patrimonio_liquido": 417587000000.0,
+  "roe": 26.5,
+  "leitura": "A Petrobras apresenta uma sólida saúde financeira com margens robustas e um ROE elevado de 26,5%, refletindo alta eficiência na geração de valor sobre o patrimônio. Embora a receita tenha apresentado estabilidade, o lucro líquido registrou um crescimento expressivo, indicando uma otimização operacional significativa. O principal alerta reside na dependência da volatilidade dos preços internacionais do petróleo, que impacta diretamente a sustentabilidade desses resultados no longo prazo."
+}

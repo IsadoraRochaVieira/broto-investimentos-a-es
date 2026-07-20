@@ -1,0 +1,19 @@
+{
+  "ticker": "POMO4",
+  "empresa": "MARCOPOLO S.A.",
+  "cd_cvm": "008451",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "17/07/2026",
+  "receita": 9057548000.0,
+  "receita_ant": 8593837000.0,
+  "receita_cresc": 5.4,
+  "lucro": 1235508000.0,
+  "lucro_ant": 1222377000.0,
+  "lucro_cresc": 1.1,
+  "margem_liquida": 13.6,
+  "ativo_total": 9722646000.0,
+  "patrimonio_liquido": 3895529000.0,
+  "roe": 31.7,
+  "leitura": null
+}

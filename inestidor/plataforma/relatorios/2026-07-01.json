@@ -1,0 +1,124 @@
+{
+  "data": "01/07/2026",
+  "data_iso": "2026-07-01",
+  "resumo": "Ibovespa fecha semestre em baixa. PETR4 e SMTO3 como melhores oportunidades técnicas cruzadas com geopolítica.",
+  "resumo_curto": "PETR4, SMTO3 e CPFE3 em destaque",
+  "semaforo": "amarelo",
+  "pick_semana": {
+    "ticker": "PETR4",
+    "nome": "Petrobras PN",
+    "score": 72,
+    "acao": "COMPRAR",
+    "preco": "38.20",
+    "rsi": 29.4,
+    "atr": 2.1,
+    "entrada": "38.20",
+    "stop": "36.60",
+    "alvo": "43.93",
+    "tese": "Sobrevendida tecnicamente com RSI em zona de reversão. Dividend yield de 11% sustenta queda. Brent acima de US$70 garante geração de caixa."
+  },
+  "resumo_executivo": "O mercado entrou em julho pressionado pela queda do Brent (US$73) e dados fracos de emprego (Caged abaixo do esperado). A melhor oportunidade é PETR4 — empresa com lucro de R$32,6bi, dividend yield de 11-12% e sobrevendida tecnicamente. SMTO3 oferece o maior upside (+42% até preço-alvo dos analistas) num horizonte de médio prazo. Evite MGLU3: RSI baixo não é argumento quando os fundamentos pioram e a Selic está a 14,25%.",
+  "macro": {
+    "ibovespa": "172.024",
+    "ibovespa_var": -0.68,
+    "dolar": "5,17",
+    "selic": "14,25",
+    "brent": "73,35"
+  },
+  "tops": [
+    {
+      "ticker": "SMTO3",
+      "score": 45
+    },
+    {
+      "ticker": "MGLU3",
+      "score": 45
+    },
+    {
+      "ticker": "PETR3",
+      "score": 40
+    },
+    {
+      "ticker": "SLCE3",
+      "score": 40
+    }
+  ],
+  "candidatos": [
+    {
+      "ticker": "PETR4",
+      "nome": "Petrobras PN",
+      "score": 30,
+      "acao": "COMPRAR",
+      "preco": "37.83",
+      "rsi": 28.7,
+      "pl": 4.8,
+      "tese": "Empresa com lucro de R$32,6bi no 1T26, dividend yield estimado em 11-12% e sobrevendida pela queda do Brent. A queda do petróleo já está precificada — se o Brent se estabilizar acima de US$65, PETR4 reage rápido.",
+      "risco": "Brent continuar caindo abaixo de US$65 comprometeria o caixa para dividendos.",
+      "entrada": "37.83",
+      "stop": "36.13",
+      "alvo": "42.37"
+    },
+    {
+      "ticker": "SMTO3",
+      "nome": "São Martinho",
+      "score": 45,
+      "acao": "OBSERVAR",
+      "preco": "15.93",
+      "rsi": 28.0,
+      "pl": 5.9,
+      "tese": "P/L de 5,9x e P/VP de 0,65 com RSI em 28 — valuation absurdamente barato. OIA prevê déficit global de açúcar em 2026/27 e o Citi aponta rebote de preço. São Martinho tem mix flexível e vai pivotar para açúcar quando o preço subir.",
+      "risco": "Etanol caiu 13% desde o resultado e pode continuar pressionado por 2-3 meses de safra.",
+      "entrada": "15.93",
+      "stop": "15.21",
+      "alvo": "17.84"
+    },
+    {
+      "ticker": "CPFE3",
+      "nome": "CPFL Energia",
+      "score": 0,
+      "acao": "COMPRAR",
+      "preco": "44.26",
+      "rsi": null,
+      "pl": null,
+      "tese": "Tese geopolítica: se acordo EUA-Irã fechar, petróleo cai mais e elétricas reguladas ficam mais competitivas. CPFL confirmou R$4,3bi em dividendos e se beneficia da demanda de data centers de IA no Brasil.",
+      "risco": "Risco regulatório de revisão tarifária pela ANEEL.",
+      "entrada": "44.26",
+      "stop": "42.27",
+      "alvo": "49.57"
+    }
+  ],
+  "plano": [
+    {
+      "ativo": "PETR4",
+      "acao": "COMPRAR",
+      "valor": "R$ 5.000",
+      "entrada": "R$ 38,50",
+      "stop": "R$ 36,30",
+      "alvo": "R$ 48,00"
+    },
+    {
+      "ativo": "SMTO3",
+      "acao": "COMPRAR",
+      "valor": "R$ 2.500",
+      "entrada": "R$ 14,93",
+      "stop": "R$ 13,65",
+      "alvo": "R$ 21,20"
+    },
+    {
+      "ativo": "CPFE3",
+      "acao": "COMPRAR",
+      "valor": "R$ 1.000",
+      "entrada": "Mercado",
+      "stop": "-8%",
+      "alvo": "+25%"
+    },
+    {
+      "ativo": "CAIXA",
+      "acao": "MANTER",
+      "valor": "R$ 1.500",
+      "entrada": "-",
+      "stop": "-",
+      "alvo": "-"
+    }
+  ]
+}

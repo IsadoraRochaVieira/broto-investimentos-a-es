@@ -1,0 +1,385 @@
+{
+  "coletado_em": "05/07/2026 13:00",
+  "total": 25,
+  "urgentes": 0,
+  "destaque": {
+    "titulo": "Ibovespa volta aos 174 mil pontos com aposta na Selic, e dólar cai",
+    "descricao": "Em um dia de feriado nos Estados Unidos, a bolsa voltou a fechar acima dos 174 mil pontos pela primeira vez em um mês. O dólar recuou e retornou ao nível de R$ 5,16. O movimento foi impulsionado pela leitura mais fraca da produção industrial em maio, que reforçou as apostas de um corte de 0,25 ponto percentual da taxa Selic na reunião de agosto do Comitê de Política Monetária (Copom). Com os merca",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/ibovespa-volta-aos-174-mil-pontos-com-aposta-na-selic-e-dolar-cai",
+    "fonte": "Agência Brasil",
+    "categoria": "Política Econômica",
+    "cor": "#009c3b",
+    "urgencia": "media",
+    "score_relevancia": 6,
+    "pub_date": "Fri, 03 Jul 2026 19:40:00 -0300",
+    "setores": [
+      "Bancos (ITUB4, BBDC4)",
+      "Câmbio / Exportadores",
+      "Todos os ativos"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Ibovespa volta aos 174 mil pontos com aposta na Selic, e dólar cai",
+      "descricao": "Em um dia de feriado nos Estados Unidos, a bolsa voltou a fechar acima dos 174 mil pontos pela primeira vez em um mês. O dólar recuou e retornou ao nível de R$ 5,16. O movimento foi impulsionado pela leitura mais fraca da produção industrial em maio, que reforçou as apostas de um corte de 0,25 ponto percentual da taxa Selic na reunião de agosto do Comitê de Política Monetária (Copom). Com os merca",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/ibovespa-volta-aos-174-mil-pontos-com-aposta-na-selic-e-dolar-cai",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 6,
+      "pub_date": "Fri, 03 Jul 2026 19:40:00 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Balança comercial tem superávit de US$ 9,8 bilhões em junho",
+      "descricao": "Com a ajuda do petróleo, da soja, da carne e do ferro, a balança comercial brasileira registrou superávit de US$ 9,8 bilhões em junho, resultado 66,6% superior ao do mesmo mês de 2025. O desempenho foi impulsionado pelo crescimento das exportações, que avançaram quase 25% no período, segundo dados divulgados nesta sexta-feira (3) pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/balanca-comercial-tem-superavit-de-us-98-bilhoes-em-junho",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Fri, 03 Jul 2026 17:01:00 -0300",
+      "setores": [
+        "PETR4/PETR3",
+        "VALE3",
+        "AGRO (SLCE3, SMTO3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Durigan diz que juros altos travam economia e pressionam dívida pública",
+      "descricao": "Ministro da Fazenda afirma que taxa elevada desestimula investimentos privados, nega que medidas de crédito do governo influenciam a política monetária e defende continuidade do ajuste fiscal",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7454978-durigan-diz-que-juros-altos-travam-economia-e-pressionam-divida-publica.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Sat, 4 Jul 2026 17:17:55 -0300",
+      "setores": [
+        "Bancos (ITUB4, BBDC4)"
+      ]
+    },
+    {
+      "titulo": "China cria mecanismos financeiros na África para não depender de dólar",
+      "descricao": "A China vem ampliando a infraestrutura financeira na África para não depender do dólar, o que permite comercializar bens e serviços por meio das moedas africanas e da chinesa, o yuan. Apesar das mudanças, o uso yuan (ou renminbi) ainda é minoritário no continente e a chamada desdolarização segue fora do horizonte, mesmo para as autoridades de Pequim. No fim de junho, o Banco Central da China autor",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/china-cria-mecanismos-financeiros-na-africa-para-nao-depender-de-dolar",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Sun, 05 Jul 2026 12:00:00 -0300",
+      "setores": [
+        "VALE3",
+        "Bancos (ITUB4, BBDC4)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Aneel leiloa mais quatro lotes de transmissão de energia",
+      "descricao": "Quatro projetos de transmissão de energia foram leiloados hoje (3) na sede da B3, na capital paulista. Promovido pela Agência Nacional de Energia Elétrica (Aneel), este foi o segundo leilão de transmissão de energia do ano. O primeiro deles, que leiloou outros cinco lotes, foi realizado em março deste ano. O certame desta sexta-feira leiloou quatro lotes, com investimentos estimados em R$ 1,8 bilh",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/aneel-leiloa-mais-quatro-lotes-de-transmissao-de-energia",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 03 Jul 2026 15:47:00 -0300",
+      "setores": [
+        "Energia (CPFE3, ELET3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Tocantins deve liderar crescimento do PIB brasileiro em 2026, diz secretário",
+      "descricao": "Ao Correio, o secretário de Estado da Agricultura e Pecuária do Tocantins, Fred Sodré disse que o desempenho é resultado de uma estratégia de fortalecimento do agronegócio",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7454681-tocantins-deve-liderar-crescimento-do-pib-em-2026-diz-secretario.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Fri, 3 Jul 2026 17:37:00 -0300",
+      "setores": [
+        "AGRO (SLCE3, SMTO3)"
+      ]
+    },
+    {
+      "titulo": "5 motivos do 'boom' econômico do Paraguai (e seus efeitos para o país)",
+      "descricao": "O Paraguai lidera o crescimento regional na América do Sul, atrás apenas da Guiana Getty Images Na Copa do Mundo da Fifa de Futebol Masculino de 2026, a seleção do Paraguai não está entre as favoritas da América Latina. Mas, em outro setor, o país vem marcando gols sem parar: a economia. Nos últimos três anos, o Paraguai cresceu, em média, 5,5% ao ano, muito acima da média dos seus vizinhos e da A",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/04/5-motivos-do-boom-economico-do-paraguai-e-seus-efeitos-para-o-pais.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sat, 04 Jul 2026 17:55:55 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Durigan nega erros do governo e promete ajuste nas contas públicas",
+      "descricao": "Dario Durigan Washington Costa/MF O ministro da Fazenda, Dario Durigan, negou que decisões do governo federal sejam a principal causa dos juros elevados no país e afirmou que a equipe econômica fará um ajuste nas contas públicas nos próximos anos para cumprir as metas fiscais. \"Eu não estou procurando culpados. Porque assim, quem é menos culpado é o Ministério da Fazenda por conta da taxa de juros",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/04/durigan-diz-que-gargalo-da-economia-sao-os-juros-altos-quem-e-menos-culpado-e-o-ministerio-da-fazenda.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Sat, 04 Jul 2026 07:00:45 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4)"
+      ]
+    },
+    {
+      "titulo": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
+      "descricao": "O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos brasileiros. Os dados foram divulgados nesta sexta-feira (3) pela Secretaria de Comércio Exterior (Secex), do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic). Se",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 03 Jul 2026 18:34:00 -0300",
+      "setores": [
+        "VALE3",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
+      "descricao": "O Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic) elevou de US$ 72,1 bilhões para US$ 90 bilhões a projeção de superávit da balança comercial brasileira em 2026. Se confirmada, a marca será a segunda maior da série histórica, atrás apenas do resultado registrado em 2023, e representará alta de 32,3% em relação ao saldo de US$ 68,1 bilhões obtido em 2025. Notícias relacionadas:",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Fri, 03 Jul 2026 18:34:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "“Comunistas” podem ganhar terreno nos EUA, diz Trump em discurso de 4 de Julho",
+      "descricao": "Em tom de campanha, o presidente americano disse que o que chama de \"surgimento do comunismo\" é um \"câncer\" que precisa ser \"extirpado rapidamente\" The post &#8220;Comunistas&#8221; podem ganhar terreno nos EUA, diz Trump em discurso de 4 de Julho appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mundo/comunistas-podem-ganhar-terreno-nos-euam-diz-trump-em-discurso-de-4-de-julho/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 05 Jul 2026 15:29:40 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Como o risco geopolítico começa a entrar na conta do Boticário",
+      "descricao": "Ao IM Entrevista, primeira pessoa a ocupar o cargo fora da família fundadora fala sobre o mercado de cosméticos, concorrência, economia e escala 6x1 The post Como o risco geopolítico começa a entrar na conta do Boticário appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/business/grupo-boticario-espera-pressao-de-juros-apos-anos-de-crescimento-solido-diz-ceo/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 05 Jul 2026 15:12:38 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Governo de SP responde PSOL-Rede e diz que canais divulgam ações de interesse público",
+      "descricao": "Federação PSOL-Rede acusa Tarcísio de promover a Sabesp mesmo já sendo uma empresa privada The post Governo de SP responde PSOL-Rede e diz que canais divulgam ações de interesse público appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/politica/governo-de-sp-responde-psol-rede-e-diz-que-canais-divulgam-acoes-de-interesse-publico/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 05 Jul 2026 14:14:20 +0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Após cessar-fogo entre EUA e Irã e reabertura do Estreito de Ormuz, OPEP+ aumenta produção de petróleo",
+      "descricao": "Irã transforma funeral de Ali Khamenei em demonstração de poder A OPEP+, aliança formada pelos países da Organização dos Países Exportadores de Petróleo (OPEP) e produtores aliados, como a Rússia, concordou com um novo aumento nas metas de produção a partir de agosto, informou o grupo em comunicado divulgado neste domingo (5). A decisão amplia a oferta global em um momento em que os preços do petr",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/05/apos-cessar-fogo-entre-eua-e-ira-e-reabertura-do-estreito-de-ormuz-opep-aumenta-producao-de-petroleo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 05 Jul 2026 13:55:27 -0000",
+      "setores": [
+        "PETR4/PETR3"
+      ]
+    },
+    {
+      "titulo": "Silagem fortalece nutrição do gado nos períodos de estiagem",
+      "descricao": "Silagem fortalece nutrição do gado nos períodos de estiagem TV TEM A chegada do inverno e a ausência de chuvas trazem também o período de estiagem, quando o pasto seca e os animais têm maior dificuldade para se alimentar. É neste momento que a silagem favorece o ganho de peso e a produção de leite. Em Pederneiras (SP), o pecuarista Paulo Vitor Garcia utiliza a selagem de milho embolsa, armazenando",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/07/05/silagem-fortalece-nutricao-do-gado-nos-periodos-de-estiagem.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 05 Jul 2026 10:30:09 -0000",
+      "setores": [
+        "AGRO (SLCE3, SMTO3)",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "El Niño ameaça produção e pode encarecer alimentos no Brasil; veja os mais afetados",
+      "descricao": "Café é o principal produto de exportação de Varginha. Crédito: Divulgação. Está cada vez mais claro: o El Niño pode reduzir a oferta de alguns alimentos e aumentar os preços nos supermercados brasileiros, apontam economistas consultados pelo g1. \"Certamente vai impactar preço dos alimentos. É meio que inevitável, principalmente se afetar as janelas de plantio ou mesmo prejudicar a produção na hora",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/05/el-nino-ameaca-producao-e-pode-encarecer-alimentos-no-brasil-veja-os-mais-afetados.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 05 Jul 2026 08:00:36 -0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Muito além das remadas: a surpreendente economia dos vikings — que enfrentam o Brasil na Copa",
+      "descricao": "Haaland fala sobre as chances da Noruega contra o Brasil: \"Pequenas\" Após avançar às oitavas de final da Copa do Mundo, o Brasil enfrenta uma seleção que costuma levar para as arquibancadas um dos símbolos mais conhecidos da história nórdica: a remada viking. Mas, muito antes de inspirar cantos nas arquibancadas — e séculos antes de jogadores como Erling Haaland chamarem atenção dentro de campo —,",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/05/a-surpreendente-economia-dos-vikings-que-enfrentam-o-brasil-na-copa.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 05 Jul 2026 07:01:11 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Copa impulsiona contratações temporárias no Brasil; veja os direitos dos trabalhadores",
+      "descricao": "Copa do Mundo: Brasil pode ter mais dois jogos em dias úteis A Copa do Mundo de 2026 já movimenta o mercado de trabalho brasileiro, mesmo sendo realizada nos Estados Unidos, Canadá e México. O torneio, que segue até 19 de julho, tem impulsionado o consumo de alimentos, bebidas, televisores, artigos esportivos e produtos para confraternizações. Com isso, empresas reforçaram as equipes, principalmen",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/05/copa-impulsiona-contratacoes-temporarias-no-brasil-veja-os-direitos-dos-trabalhadores.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 05 Jul 2026 06:00:17 -0000",
+      "setores": [
+        "Varejo (MGLU3)"
+      ]
+    },
+    {
+      "titulo": "Seu salário é bom? Veja por que a resposta depende de mais do que o valor na conta",
+      "descricao": "Você ganha bem ou mal? Entenda 3 formas de avaliar sua renda Ganhar bem ou mal não é apenas uma questão de salário. Na economia, a renda é relativa e pode ser analisada por diferentes critérios — como a posição na distribuição de renda do país, o poder de compra e quanto sobra no fim do mês. O custo de vida ajuda a definir o valor real do rendimento. Outro fator é a estabilidade. Ganhos pontuais n",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/07/05/seu-salario-e-bom-veja-por-que-a-resposta-depende-de-mais-do-que-o-valor-na-conta.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sun, 05 Jul 2026 05:00:29 -0000",
+      "setores": [
+        "Varejo (MGLU3)"
+      ]
+    },
+    {
+      "titulo": "Mulheres ganham prêmio por inclusão racial no comércio exterior",
+      "descricao": "Acreditar na diversidade e na inclusão para o sucesso foi o que levou duas empresárias, no Rio de Janeiro, a vencer a 2ª edição do Prêmio de Inclusão e Diversidade Racial no Comércio Exterior. A premiação é parceria entre o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), a Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil) e o Ministério da Igualdade R",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mulheres-lideram-praticas-de-diversidade-em-empresas-do-rio-de-janeiro",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 03 Jul 2026 14:40:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Conta de luz fica 10% mais cara em São Paulo",
+      "descricao": "A conta de luz de grande parte da população do estado de São Paulo ficará mais cara a partir deste sábado (4). Com o reajuste tarifário anual da Enel , o valor médio para o consumidor terá aumento de 10,18%. A elevação foi aprovada na terça-feira (30) pela diretoria da Agência Nacional de Energia Elétrica (Aneel) . O aumento médio para a baixa tensão, que inclui residências, será de 8,97%. Já a mé",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/conta-de-luz-fica-10-mais-cara-em-sao-paulo",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 03 Jul 2026 13:43:00 -0300",
+      "setores": [
+        "Energia (CPFE3, ELET3)"
+      ]
+    },
+    {
+      "titulo": "Mais etanol na gasolina levanta dúvidas sobre real rendimento dos carros",
+      "descricao": "Proposta de elevar o percentual obrigatório de etanol para 32% busca reduzir importações de gasolina e fortalecer a produção nacional, mas especialistas alertam para os efeitos no rendimento dos automóveis",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7454952-mais-etanol-na-gasolina-levanta-duvidas-sobre-rendimento-de-carro.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Sat, 4 Jul 2026 11:51:00 -0300",
+      "setores": [
+        "AGRO (SLCE3, SMTO3)",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Durigan defende que Pix é universal e não prejudica americanos",
+      "descricao": "Ministro da Fazenda afirma que argumentos técnicos apresentados pelo Brasil devem impedir a adoção da sobretaxa de 25%",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7454721-durigan-defende-que-pix-e-universal-e-nao-prejudica-americanos.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 3 Jul 2026 18:16:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "O novo mercado de trabalho: 5 transformações que já mudaram tudo",
+      "descricao": "Especialista revela as tendências, da IA à saúde mental, que estão definindo as carreiras do futuro e como se adaptar para não ficar para trás",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7454573-o-novo-mercado-de-trabalho-5-transformacoes-que-ja-mudaram-tudo.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 3 Jul 2026 15:29:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Superavit atinge US$ 9,8 bilhões em junho, 66% a mais do que em 2025",
+      "descricao": "Exportações avançaram 24,9% no mês e impulsionaram o saldo comercial brasileiro. Dados foram divulgados hoje (3/7) pelo governo federal",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7454557-superavit-comercial-atinge-uss-98-bilhoes-no-mes-de-junho.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Fri, 3 Jul 2026 15:19:00 -0300",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    }
+  ]
+}

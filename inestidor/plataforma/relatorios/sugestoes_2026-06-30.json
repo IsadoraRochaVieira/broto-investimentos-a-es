@@ -1,0 +1,131 @@
+{
+  "data": "30/06/2026",
+  "data_iso": "2026-06-30",
+  "dia_semana": "Segunda-feira",
+  "turno": "manha",
+  "macro_resumo": "Segunda: Ibovespa ~137k. Dolar R$ 5,20. Brent estavel. Semaforo verde.",
+  "semaforo": "verde",
+  "nota": "Precos = fechamento real do dia (Yahoo Finance).",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "PETR4",
+      "acao": "COMPRAR",
+      "preco": "37.80",
+      "entrada": "37.80",
+      "stop": "36.10",
+      "alvo": "42.34",
+      "rsi": 34.1,
+      "score": 60,
+      "porque": "RSI 34.1 em zona de sobrevenda. Score 60/100 com pressao compradora acumulada. Entrada R$ 37.80, stop R$ 36.10, alvo R$ 42.34."
+    },
+    {
+      "rank": 2,
+      "ticker": "SLCE3",
+      "acao": "COMPRAR",
+      "preco": "12.90",
+      "entrada": "12.90",
+      "stop": "12.32",
+      "alvo": "14.45",
+      "rsi": 20.1,
+      "score": 55,
+      "porque": "RSI 20.1 em zona de sobrevenda. Score 55/100 com pressao compradora acumulada. Entrada R$ 12.90, stop R$ 12.32, alvo R$ 14.45."
+    },
+    {
+      "rank": 3,
+      "ticker": "RECV3",
+      "acao": "OBSERVAR",
+      "preco": "9.98",
+      "entrada": "9.98",
+      "stop": "9.53",
+      "alvo": "11.18",
+      "rsi": 36.2,
+      "score": 40,
+      "porque": "RSI 36.2 em zona neutra. Score 40/100 proximo do limiar. Aguardar volume de confirmacao antes de entrar em R$ 9.98."
+    },
+    {
+      "rank": 4,
+      "ticker": "PETR3",
+      "acao": "OBSERVAR",
+      "preco": "41.78",
+      "entrada": "41.78",
+      "stop": "39.90",
+      "alvo": "46.79",
+      "rsi": 31.7,
+      "score": 50,
+      "porque": "RSI 31.7 em zona neutra. Score 50/100 proximo do limiar. Aguardar volume de confirmacao antes de entrar em R$ 41.78."
+    },
+    {
+      "rank": 5,
+      "ticker": "PRIO3",
+      "acao": "OBSERVAR",
+      "preco": "52.15",
+      "entrada": "52.15",
+      "stop": "49.80",
+      "alvo": "58.41",
+      "rsi": 29.2,
+      "score": 30,
+      "porque": "RSI 29.2 em zona neutra. Score 30/100 proximo do limiar. Aguardar volume de confirmacao antes de entrar em R$ 52.15."
+    },
+    {
+      "rank": 6,
+      "ticker": "AGRO3",
+      "acao": "OBSERVAR",
+      "preco": "18.22",
+      "entrada": "18.22",
+      "stop": "17.40",
+      "alvo": "20.41",
+      "rsi": 45.4,
+      "score": 30,
+      "porque": "RSI 45.4 em zona neutra. Score 30/100 proximo do limiar. Aguardar volume de confirmacao antes de entrar em R$ 18.22."
+    },
+    {
+      "rank": 7,
+      "ticker": "SANB11",
+      "acao": "OBSERVAR",
+      "preco": "26.80",
+      "entrada": "26.80",
+      "stop": "25.59",
+      "alvo": "30.02",
+      "rsi": 48.3,
+      "score": 30,
+      "porque": "RSI 48.3 em zona neutra. Score 30/100 proximo do limiar. Aguardar volume de confirmacao antes de entrar em R$ 26.80."
+    },
+    {
+      "rank": 8,
+      "ticker": "SMTO3",
+      "acao": "EVITAR",
+      "preco": "15.70",
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 54.8,
+      "score": 20,
+      "porque": "Score 20/100 abaixo do minimo. RSI 54.8 sem gatilho tecnico definido. Manter caixa."
+    },
+    {
+      "rank": 9,
+      "ticker": "BBAS3",
+      "acao": "EVITAR",
+      "preco": "19.91",
+      "entrada": null,
+      "stop": null,
+      "alvo": null,
+      "rsi": 49.7,
+      "score": 20,
+      "porque": "Score 20/100 abaixo do minimo. RSI 49.7 sem gatilho tecnico definido. Manter caixa."
+    },
+    {
+      "rank": 10,
+      "ticker": "MGLU3",
+      "acao": "OBSERVAR",
+      "preco": "4.68",
+      "entrada": "4.68",
+      "stop": "4.47",
+      "alvo": "5.24",
+      "rsi": 35.6,
+      "score": 30,
+      "porque": "RSI 35.6 em zona neutra. Score 30/100 proximo do limiar. Aguardar volume de confirmacao antes de entrar em R$ 4.68."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "ticker": "EGIE3",
+  "empresa": "",
+  "setor": "",
+  "preco": "33,58",
+  "data": "",
+  "dossie": {
+    "ticker": "EGIE3",
+    "preco": "33,58",
+    "var_1d": "2,94",
+    "var_5d": "4,48",
+    "var_20d": "-4,63",
+    "rsi": "51,9",
+    "macd_hist": "-0,077",
+    "bb_pct": "51,6",
+    "vol_ratio": "0,83",
+    "atr_pct": "2,69",
+    "dist_min52": "25,7",
+    "dist_max52": "15,6",
+    "pl": "14.9",
+    "pvp": "2,82",
+    "dy": "561.0%",
+    "roe": "20.2%",
+    "score": "5",
+    "classificacao": "EVITAR"
+  },
+  "analistas": [
+    {
+      "id": "small_caps",
+      "nome": "O Caçador de Small Caps",
+      "emoji": "🔎",
+      "postura": "ABSTENHO",
+      "resumo": "Ativo de prateleira institucional, fora do escopo de caça de pequenas capitalizações.",
+      "argumentos": [
+        "EGIE3 é uma blue chip do setor elétrico com alta liquidez e presença institucional massiva.",
+        "O P/L de 14.9 e o P/VP de 2.82 refletem uma precificação estável, sem a assimetria de ativos esquecidos.",
+        "O volume financeiro e a estrutura de capital não condizem com o perfil de risco-retorno de uma small cap."
+      ],
+      "riscos": [
+        "Distorção no DY informado sugere ruído de dados ou eventos não recorrentes.",
+        "Falta de gatilho para valorização exponencial típica de ativos de baixa capitalização."
+      ]
+    },
+    {
+      "id": "macro",
+      "nome": "A Macroespecialista",
+      "emoji": "🌍",
+      "postura": "OBSERVAR",
+      "resumo": "A Engie apresenta fundamentos sólidos de rentabilidade, mas o momento técnico e a incerteza com a curva de juros longa recomendam cautela.",
+      "argumentos": [
+        "O ROE de 20,2% demonstra alta eficiência operacional e qualidade na alocação de capital.",
+        "O P/L de 14,9 está em patamar justo para o setor, refletindo a previsibilidade de receita da companhia.",
+        "O score técnico baixo (5/100) e a volatilidade representada pelo ATR de 2,69% sugerem um momento de indefinição no curto prazo.",
+        "A distância de 15,6% da máxima de 52 semanas indica espaço para recuperação, condicionado à melhora do fluxo estrangeiro."
+      ],
+      "riscos": [
+        "A sensibilidade da alavancagem financeira ao ciclo de alta da Selic pode pressionar as margens líquidas.",
+        "O descasamento entre a geração de caixa e a necessidade de investimentos intensivos em novos projetos de transmissão."
+      ]
+    },
+    {
+      "id": "quant",
+      "nome": "O Analista Gráfico",
+      "emoji": "📈",
+      "postura": "EVITAR",
+      "resumo": "Ativo encontra-se em zona de indefinição técnica com momentum fraco e volume insuficiente para justificar uma reversão de tendência.",
+      "argumentos": [
+        "Volume de negociação abaixo da média (0,83x) indica falta de convicção institucional no movimento de alta recente.",
+        "RSI em 51,9 mostra neutralidade, sem força compradora clara para romper resistências superiores.",
+        "MACD histograma negativo (-0,077) confirma que a pressão vendedora de curto prazo ainda não foi totalmente superada.",
+        "Banda de Bollinger em 51,6% posiciona o preço exatamente na média, sem vantagem estatística para entrada."
+      ],
+      "riscos": [
+        "Retorno à tendência de baixa dos últimos 20 dias, dado que o repique atual carece de volume.",
+        "Distância da máxima de 52 semanas (15,6%) limitada, oferecendo um Risco/Retorno desfavorável para novas posições."
+      ]
+    },
+    {
+      "id": "fundamentalista",
+      "nome": "A Fundamentalista",
+      "emoji": "📊",
+      "postura": "OBSERVAR",
+      "resumo": "A Engie Brasil demonstra fundamentos sólidos de rentabilidade, mas os múltiplos atuais exigem cautela e os dados de rendimento apresentados são claramente inconsistentes.",
+      "argumentos": [
+        "O ROE de 20,2% confirma a alta eficiência operacional da companhia na geração de valor sobre o patrimônio.",
+        "O P/L de 14,9 encontra-se em patamar condizente com o histórico do setor elétrico, indicando um preço justo para a qualidade do ativo.",
+        "O dado de Dividend Yield de 561% é tecnicamente impossível e sugere erro na fonte de dados, devendo ser desconsiderado na análise."
+      ],
+      "riscos": [
+        "O P/VP de 2,82 indica que a ação negocia com ágio elevado em relação ao seu valor patrimonial, limitando a margem de segurança.",
+        "A volatilidade do ativo, evidenciada pelo ATR de 2,69%, sugere oscilações de curto prazo que podem impactar o custo médio de entrada."
+      ]
+    },
+    {
+      "id": "cetico",
+      "nome": "O Cético",
+      "emoji": "🛡️",
+      "postura": "EVITAR",
+      "resumo": "O papel apresenta uma armadilha de valuation e dados inconsistentes que invalidam a tese de dividendos.",
+      "argumentos": [
+        "O DY informado de 561% é um erro crasso ou outlier extremo que distorce a percepção de valor, exigindo auditoria imediata.",
+        "O P/VP de 2,82 é excessivamente elevado para uma utility madura, sugerindo que o mercado precifica um crescimento que não se sustenta no histórico recente.",
+        "Score técnico de 5/100 e volume abaixo da média (0,83x) indicam ausência de fluxo comprador institucional e fragilidade no suporte atual."
+      ],
+      "riscos": [
+        "Risco de alocação baseada em dados de proventos corrompidos ou não recorrentes.",
+        "Compressão de múltiplos caso o mercado corrija o prêmio de risco injustificado sobre o valor patrimonial."
+      ]
+    },
+    {
+      "id": "dividendos",
+      "nome": "A Especialista em Dividendos",
+      "emoji": "💰",
+      "postura": "OBSERVAR",
+      "resumo": "Empresa de alta qualidade operacional, mas com preço atual pouco atrativo para entrada imediata.",
+      "argumentos": [
+        "O ROE de 20,2% confirma a robustez e eficiência na geração de valor sobre o patrimônio.",
+        "O P/L de 14,9 está em patamar justo para o setor, mas o P/VP de 2,82 indica um ágio que limita a margem de segurança.",
+        "O DY informado de 561% é um erro de mercado; a capacidade real de pagamento deve ser avaliada pelo histórico de payout da companhia.",
+        "O score técnico baixo e a distância de 15,6% da máxima sugerem aguardar uma correção mais profunda para melhor ponto de entrada."
+      ],
+      "riscos": [
+        "Exposição a riscos regulatórios e hidrológicos típicos do setor de geração de energia.",
+        "Possível compressão de margens caso os novos leilões de transmissão/geração apresentem retornos decrescentes."
+      ]
+    },
+    {
+      "id": "sentinela",
+      "nome": "A Sentinela de Notícias",
+      "emoji": "📰",
+      "postura": "OBSERVAR",
+      "resumo": "A ação mostra um repique técnico de curto prazo, mas o volume abaixo da média sugere que o movimento ainda carece de convicção institucional.",
+      "argumentos": [
+        "O volume de 0,83x a média indica que a alta recente de 2,94% não é sustentada por fluxo comprador relevante.",
+        "Os indicadores técnicos (RSI 51,9 e Bollinger 51,6%) posicionam o ativo em uma zona de neutralidade, sem sinal de exaustão ou sobrecompra.",
+        "O P/VP de 2,82 permanece em um patamar elevado, o que limita o potencial de valorização imediata frente aos fundamentos atuais."
+      ],
+      "riscos": [
+        "A proximidade com a média móvel no MACD pode resultar em nova reversão caso o volume não aumente.",
+        "Eventual correção setorial pode pressionar o papel de volta às mínimas, dada a fragilidade da tendência de 20 dias."
+      ]
+    }
+  ],
+  "sintese": {
+    "veredito": "OBSERVAR",
+    "placar": {
+      "comprar": 0,
+      "observar": 4,
+      "evitar": 2
+    },
+    "texto": "A Engie permanece como uma referência de qualidade operacional no setor elétrico, com ROE robusto e previsibilidade de caixa. Contudo, o comitê reconhece que a euforia momentânea não encontra respaldo no volume financeiro, sinalizando um repique técnico sem convicção institucional. Divergências sobre a sustentabilidade dos múltiplos atuais e a inconsistência nos dados de dividendos reportados impõem um freio de arrumação, protegendo o capital de entradas precipitadas em um ambiente de juros ainda desafiador.",
+    "gatilho": "Consolidação de volume acima da média de 20 dias e redução da volatilidade da curva de juros longa para validar uma nova tendência de alta.",
+    "entrada_ref": "R$ 31,50",
+    "stop_ref": "R$ 29,80",
+    "alvo_ref": "R$ 37,00"
+  },
+  "verificacao": {
+    "conferido": true,
+    "ok": true,
+    "alertas": [],
+    "conferido_em": "17/07/2026"
+  },
+  "fontes": [
+    "Preço e indicadores técnicos (RSI, MACD, Bollinger, volume): cálculo próprio sobre cotações do Yahoo Finance / brapi.dev.",
+    "Múltiplos (P/L, P/VP, ROE, DY): provedor de mercado — quando disponível, priorizamos os dados oficiais da CVM no Raio-X Fundamentalista.",
+    "Análise e síntese: geradas por IA a partir exclusivamente dos números acima, e conferidas por uma segunda verificação automática."
+  ]
+}

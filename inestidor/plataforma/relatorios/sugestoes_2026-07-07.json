@@ -1,0 +1,130 @@
+{
+  "data": "07/07/2026",
+  "data_iso": "2026-07-07",
+  "dia_semana": "Terça-feira",
+  "turno": "manha",
+  "macro_resumo": "[Manhã (08:30)] Ibovespa 172.448 (-1.04%). Destaques: RECV3, PETR3, SLCE3. Semáforo: VERDE.",
+  "semaforo": "verde",
+  "sugestoes": [
+    {
+      "rank": 1,
+      "ticker": "RECV3",
+      "acao": "OBSERVAR",
+      "preco": "9.47",
+      "entrada": "9.47",
+      "stop": "8.88",
+      "alvo": "10.89",
+      "rsi": 26.1,
+      "score": 55,
+      "porque": "RSI em 26.1 — zona neutra. Score 55/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 9.47."
+    },
+    {
+      "rank": 2,
+      "ticker": "PETR3",
+      "acao": "OBSERVAR",
+      "preco": "41.85",
+      "entrada": "41.85",
+      "stop": "39.76",
+      "alvo": "48.13",
+      "rsi": 32.0,
+      "score": 45,
+      "porque": "RSI em 32.0 — zona neutra. Score 45/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 41.85."
+    },
+    {
+      "rank": 3,
+      "ticker": "SLCE3",
+      "acao": "OBSERVAR",
+      "preco": "12.8",
+      "entrada": "12.8",
+      "stop": "12.08",
+      "alvo": "14.72",
+      "rsi": 21.3,
+      "score": 40,
+      "porque": "RSI em 21.3 — zona neutra. Score 40/100. Aguardar confirmação de volume antes de entrar. Pré-entrada em R$ 12.8."
+    },
+    {
+      "rank": 4,
+      "ticker": "PETR4",
+      "acao": "NEUTRO",
+      "preco": "37.77",
+      "entrada": "37.77",
+      "stop": "36.18",
+      "alvo": "43.44",
+      "rsi": 31.1,
+      "score": 35,
+      "porque": "Score 35/100 em zona neutra. RSI 31.1. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 5,
+      "ticker": "COGN3",
+      "acao": "NEUTRO",
+      "preco": "2.25",
+      "entrada": "2.25",
+      "stop": "2.08",
+      "alvo": "2.59",
+      "rsi": 36.3,
+      "score": 35,
+      "porque": "Score 35/100 em zona neutra. RSI 36.3. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 6,
+      "ticker": "MGLU3",
+      "acao": "NEUTRO",
+      "preco": "4.35",
+      "entrada": "4.35",
+      "stop": "3.78",
+      "alvo": "5.0",
+      "rsi": 32.2,
+      "score": 30,
+      "porque": "Score 30/100 em zona neutra. RSI 32.2. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 7,
+      "ticker": "ITUB4",
+      "acao": "NEUTRO",
+      "preco": "42.56",
+      "entrada": "42.56",
+      "stop": "40.77",
+      "alvo": "48.94",
+      "rsi": 65.4,
+      "score": 25,
+      "porque": "Score 25/100 em zona neutra. RSI 65.4. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 8,
+      "ticker": "BBAS3",
+      "acao": "NEUTRO",
+      "preco": "19.77",
+      "entrada": "19.77",
+      "stop": "18.94",
+      "alvo": "22.74",
+      "rsi": 45.3,
+      "score": 20,
+      "porque": "Score 20/100 em zona neutra. RSI 45.3. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 9,
+      "ticker": "SANB11",
+      "acao": "NEUTRO",
+      "preco": "26.71",
+      "entrada": "26.71",
+      "stop": "25.64",
+      "alvo": "30.72",
+      "rsi": 44.5,
+      "score": 20,
+      "porque": "Score 20/100 em zona neutra. RSI 44.5. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    },
+    {
+      "rank": 10,
+      "ticker": "AGRO3",
+      "acao": "NEUTRO",
+      "preco": "18.44",
+      "entrada": "18.44",
+      "stop": "17.85",
+      "alvo": "21.21",
+      "rsi": 48.6,
+      "score": 20,
+      "porque": "Score 20/100 em zona neutra. RSI 48.6. Sem gatilho técnico definido — aguardar próximo relatório para reavaliação."
+    }
+  ]
+}

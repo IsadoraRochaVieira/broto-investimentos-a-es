@@ -1,0 +1,19 @@
+{
+  "ticker": "CAML3",
+  "empresa": "CAMIL ALIMENTOS S.A.",
+  "cd_cvm": "024228",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "17/07/2026",
+  "receita": 12262939000.0,
+  "receita_ant": 11249647000.0,
+  "receita_cresc": 9.0,
+  "lucro": 217001000.0,
+  "lucro_ant": 360461000.0,
+  "lucro_cresc": -39.8,
+  "margem_liquida": 1.8,
+  "ativo_total": 11106595000.0,
+  "patrimonio_liquido": 3457590000.0,
+  "roe": 6.3,
+  "leitura": null
+}

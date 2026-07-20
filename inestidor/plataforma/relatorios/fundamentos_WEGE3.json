@@ -1,0 +1,19 @@
+{
+  "ticker": "WEGE3",
+  "empresa": "WEG S.A.",
+  "cd_cvm": "005410",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "14/07/2026",
+  "receita": 40804110000.0,
+  "receita_ant": 37986941000.0,
+  "receita_cresc": 7.4,
+  "lucro": 6775958000.0,
+  "lucro_ant": 6318763000.0,
+  "lucro_cresc": 7.2,
+  "margem_liquida": 16.6,
+  "ativo_total": 42645030000.0,
+  "patrimonio_liquido": 18553364000.0,
+  "roe": 36.5,
+  "leitura": "A WEG apresenta uma trajetória de crescimento consistente e sólido controle operacional, mantendo margens resilientes e um ROE excepcional de 36,5%, que demonstra alta eficiência na alocação de capital. A saúde financeira é robusta e a tendência de expansão permanece positiva, embora o investidor deva monitorar a capacidade da companhia em manter esse patamar elevado de rentabilidade diante de um cenário de custos globais mais voláteis."
+}

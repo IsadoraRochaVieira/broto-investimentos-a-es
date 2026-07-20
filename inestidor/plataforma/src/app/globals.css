@@ -1,0 +1,87 @@
+/* Fontes carregadas via next/font no layout (sem @import: evita FOUT e bloqueio de rede) */
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  /* Surfaces */
+  --bg:       #0a0e14;
+  --surface:  #0f1520;
+  --surface2: #141d2b;
+  --border:   #1c2538;
+  --border2:  #2d3a4f;
+
+  /* Brand */
+  --blue:       #1052cc;
+  --blue-light: #5b9bff;
+  --blue-bg:    rgba(16,82,204,0.12);
+
+  /* Semantic */
+  --green:    #00a63c;
+  --green-bg: rgba(0,166,60,0.12);
+  --red:      #e53555;
+  --red-bg:   rgba(229,53,85,0.12);
+
+  /* Caryo gold — cor-assinatura (polpa do pequi) */
+  --gold:        #d4920a;
+  --gold-bright: #f0b429;
+  --gold-deep:   #a06d08;
+  --gold-bg:     rgba(212,146,10,0.12);
+  --gold-grad:   linear-gradient(135deg, #d4920a, #f0b429);
+
+  /* Text */
+  --text:    #e8edf5;
+  --text2:   #8a9bbf;
+  --muted:   #4d5f7a;
+
+  /* Tipografia — "Editorial do Cerrado" */
+  --mono:    var(--font-mono), 'Courier New', monospace;   /* o dado */
+  --sans:    var(--font-sans), system-ui, sans-serif;      /* a leitura */
+  --display: var(--font-display), Georgia, serif;          /* a voz da marca */
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Títulos falam na voz da marca: serifada quente, com o ar do cerrado */
+h1, h2, .display {
+  font-family: var(--display);
+  font-optical-sizing: auto;
+  letter-spacing: -0.015em;
+}
+
+a { color: inherit; text-decoration: none; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 2px; }
+
+/* Focus visible */
+:focus-visible {
+  outline: 2px solid var(--blue-light);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Mono numbers — proposta do Caio (tipografia): todo dígito alinhado em coluna */
+.mono {
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Todo número do produto usa largura tabular, mesmo fora da classe .mono */
+[style*="--mono"], .tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Ao vivo pulse */
+@keyframes live-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(0,166,60,0.5); }
+  50%       { box-shadow: 0 0 0 4px rgba(0,166,60,0); }
+}
+.dot-live { animation: live-pulse 2.4s ease-in-out infinite; }

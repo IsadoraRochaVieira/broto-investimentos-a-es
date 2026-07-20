@@ -1,0 +1,19 @@
+{
+  "ticker": "VALE3",
+  "empresa": "VALE S.A.",
+  "cd_cvm": "004170",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "14/07/2026",
+  "receita": 213595000000.0,
+  "receita_ant": 206005000000.0,
+  "receita_cresc": 3.7,
+  "lucro": 11811000000.0,
+  "lucro_ant": 30431000000.0,
+  "lucro_cresc": -61.2,
+  "margem_liquida": 5.5,
+  "ativo_total": 476094000000.0,
+  "patrimonio_liquido": 188926000000.0,
+  "roe": 6.3,
+  "leitura": "A Vale apresenta uma forte desaceleração no lucro líquido e uma compressão significativa das margens operacionais, refletindo a volatilidade dos preços do minério de ferro e maiores provisões. O ROE de 6,3% encontra-se em patamar baixo e abaixo do custo de capital, sinalizando uma perda de eficiência na geração de valor sobre o patrimônio. O principal alerta reside na forte queda do lucro anual, que pressiona a capacidade de distribuição de proventos e a rentabilidade para o acionista."
+}

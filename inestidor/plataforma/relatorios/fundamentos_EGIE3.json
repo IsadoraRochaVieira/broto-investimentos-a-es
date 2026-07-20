@@ -1,0 +1,19 @@
+{
+  "ticker": "EGIE3",
+  "empresa": "ENGIE BRASIL ENERGIA S.A.",
+  "cd_cvm": "017329",
+  "exercicio": 2025,
+  "fonte": "CVM · Demonstrações Financeiras Padronizadas (DFP)",
+  "gerado_em": "17/07/2026",
+  "receita": 12860075000.0,
+  "receita_ant": 11218635000.0,
+  "receita_cresc": 14.6,
+  "lucro": 2857919000.0,
+  "lucro_ant": 4302841000.0,
+  "lucro_cresc": -33.6,
+  "margem_liquida": 22.2,
+  "ativo_total": 55312909000.0,
+  "patrimonio_liquido": 13914493000.0,
+  "roe": 20.5,
+  "leitura": null
+}

@@ -1,0 +1,170 @@
+{
+  "ticker": "BBSE3",
+  "empresa": "BB Seguridade Participações S.A.",
+  "setor": "Seguros e previdência",
+  "preco": "40,35",
+  "data": "",
+  "dossie": {
+    "ticker": "BBSE3",
+    "preco": "40,35",
+    "var_1d": "2,72",
+    "var_5d": "4,4",
+    "var_20d": "6,55",
+    "rsi": "71,9",
+    "macd_hist": "-0,031",
+    "bb_pct": "118,2",
+    "vol_ratio": "0,81",
+    "atr_pct": "1,8",
+    "dist_min52": "39,7",
+    "dist_max52": "0,1",
+    "pl": "8.5",
+    "pvp": "6,2",
+    "dy": "1327.0%",
+    "roe": "75.6%",
+    "score": "25",
+    "classificacao": "NEUTRO"
+  },
+  "analistas": [
+    {
+      "id": "small_caps",
+      "nome": "O Caçador de Small Caps",
+      "emoji": "🔎",
+      "postura": "ABSTENHO",
+      "resumo": "BBSE3 é uma blue chip de alta liquidez e cobertura institucional, fora do meu escopo de caça.",
+      "argumentos": [
+        "Ativo de grande porte que não se enquadra na tese de micro/small cap com baixa liquidez.",
+        "RSI em 71,9 indica zona de sobrecompra, com o preço operando em máxima de 52 semanas.",
+        "O Bollinger %B em 118,2% confirma que o ativo está trabalhando fora da banda superior, sinalizando exaustão de curto prazo."
+      ],
+      "riscos": [
+        "Retração técnica natural após teste de topo histórico.",
+        "Dependência excessiva do fluxo institucional, que dita o preço de forma eficiente demais para o meu perfil."
+      ]
+    },
+    {
+      "id": "macro",
+      "nome": "A Macroespecialista",
+      "emoji": "🌍",
+      "postura": "OBSERVAR",
+      "resumo": "BBSE3 apresenta fundamentos sólidos e alta rentabilidade, mas encontra-se tecnicamente esticada e próxima ao topo das bandas de Bollinger.",
+      "argumentos": [
+        "ROE extremamente robusto de 75,6% que justifica a resiliência do papel em cenários de juros altos.",
+        "Indicador %B de 118,2% sinaliza que o ativo está operando fora da banda superior, sugerindo exaustão compradora no curto prazo.",
+        "RSI em 71,9 indica região de sobrecompra, reduzindo a margem de segurança para novas entradas imediatas.",
+        "Valuation atrativo com P/L de 8,5, mantendo o papel como um ativo de valor defensivo no setor de seguros."
+      ],
+      "riscos": [
+        "Possível correção técnica de curto prazo dado o distanciamento da média e o RSI elevado.",
+        "Dependência da sinistralidade do agronegócio, que pode ser impactada por variações climáticas adversas e cenário macroeconômico global."
+      ]
+    },
+    {
+      "id": "quant",
+      "nome": "O Analista Gráfico",
+      "emoji": "📈",
+      "postura": "EVITAR",
+      "resumo": "Ativo encontra-se em zona de exaustão compradora, operando acima da banda superior de Bollinger e com RSI em nível de sobrecompra.",
+      "argumentos": [
+        "RSI em 71,9 indica região de sobrecompra técnica.",
+        "Bollinger %B em 118,2% sinaliza que o preço está esticado fora das bandas estatísticas de volatilidade.",
+        "Ativo negociando a apenas 0,1% da sua máxima de 52 semanas, sem margem de segurança para novos movimentos de alta.",
+        "Volume de 0,81x a média sugere falta de convicção compradora na sustentação deste patamar."
+      ],
+      "riscos": [
+        "Risco elevado de correção técnica imediata devido ao afastamento das médias e exaustão do movimento.",
+        "Possibilidade de reversão rápida ao testar a resistência da máxima histórica sem fluxo comprador expressivo."
+      ]
+    },
+    {
+      "id": "fundamentalista",
+      "nome": "A Fundamentalista",
+      "emoji": "📊",
+      "postura": "OBSERVAR",
+      "resumo": "Empresa de alta rentabilidade com fundamentos sólidos, mas operando em níveis de preço esticados e com dados inconsistentes.",
+      "argumentos": [
+        "O ROE de 75,6% confirma a excelente eficiência operacional e geração de valor da BB Seguridade.",
+        "O P/L de 8,5 é historicamente atrativo, porém o P/VP de 6,2 indica um ágio relevante sobre o patrimônio líquido.",
+        "O dado de dividend yield de 1327% é claramente um erro de alimentação de dados que deve ser desconsiderado.",
+        "O indicador Bollinger %B em 118,2% e o RSI em 71,9 sinalizam que a ação está em zona de sobrecompra no curto prazo."
+      ],
+      "riscos": [
+        "Risco de correção técnica imediata devido à proximidade da máxima de 52 semanas e indicadores de sobrecompra.",
+        "Dependência da performance operacional do Banco do Brasil e volatilidade do setor de seguros."
+      ]
+    },
+    {
+      "id": "cetico",
+      "nome": "O Cético",
+      "emoji": "🛡️",
+      "postura": "EVITAR",
+      "resumo": "Você está comprando o topo histórico em um ativo esticado, ignorando a exaustão técnica e métricas distorcidas.",
+      "argumentos": [
+        "O Bollinger %B em 118,2% indica que o preço está operando fora da banda superior, sinalizando uma clara extensão de curto prazo.",
+        "O RSI de 71,9 denota zona de sobrecompra, sugerindo que o ímpeto atual está exaurido e propenso a correções.",
+        "O DY informado de 1327% é uma anomalia estatística ou erro de reporte que invalida qualquer análise baseada em fundamentos de dividendos neste momento.",
+        "A proximidade de 0,1% da máxima de 52 semanas configura uma armadilha de euforia para o investidor que entra na ponta compradora agora."
+      ],
+      "riscos": [
+        "Correção técnica severa por reversão à média, dado que o ativo está operando fora das bandas de Bollinger.",
+        "Risco de valorização artificial do P/VP em 6,2, que sugere um prêmio excessivo sobre o patrimônio líquido em um setor de baixa previsibilidade de crescimento."
+      ]
+    },
+    {
+      "id": "dividendos",
+      "nome": "A Especialista em Dividendos",
+      "emoji": "💰",
+      "postura": "EVITAR",
+      "resumo": "A ação está extremamente esticada no curto prazo e com indicadores técnicos sugerindo exaustão compradora.",
+      "argumentos": [
+        "O RSI de 71,9 e o Bollinger %B em 118,2% indicam que o ativo está sobrecomprado e próximo de uma correção técnica.",
+        "A proximidade de 0,1% da máxima de 52 semanas confirma que o papel está operando no topo, violando a premissa de acumular em quedas.",
+        "O DY informado de 1327% é uma distorção contábil, e o P/VP de 6,2 reflete um prêmio elevado que reduz a margem de segurança para novos aportes.",
+        "O volume abaixo da média (0,81x) em um momento de alta sugere falta de convicção institucional para sustentar o preço atual."
+      ],
+      "riscos": [
+        "Risco elevado de correção no curto prazo devido ao estado de sobrecompra técnica.",
+        "Possível frustração de expectativas caso os lucros futuros não justifiquem o múltiplo P/VP elevado."
+      ]
+    },
+    {
+      "id": "sentinela",
+      "nome": "A Sentinela de Notícias",
+      "emoji": "📰",
+      "postura": "EVITAR",
+      "resumo": "O ativo encontra-se em zona de exaustão compradora e sobrecomprado tecnicamente, próximo ao topo histórico.",
+      "argumentos": [
+        "RSI de 71,9 indica sobrecompra, enquanto Bollinger %B em 118,2% sinaliza que o preço está operando fora da banda superior.",
+        "Ação negociando a 0,1% da máxima de 52 semanas, sugerindo resistência forte à frente.",
+        "O volume abaixo da média (0,81x) indica falta de convicção institucional para romper o topo atual."
+      ],
+      "riscos": [
+        "Correção técnica iminente devido à exaustão dos indicadores de momentum.",
+        "Possível distorção no indicador de DY informado, o que pode induzir a uma percepção errônea de valor."
+      ]
+    }
+  ],
+  "sintese": {
+    "veredito": "EVITAR",
+    "placar": {
+      "comprar": 0,
+      "observar": 2,
+      "evitar": 4
+    },
+    "texto": "Embora a BBSE3 mantenha fundamentos operacionais sólidos e uma rentabilidade robusta, o consenso do comitê é de cautela extrema. A divergência entre a qualidade do ativo e o momento técnico atual é clara: enquanto a tese fundamentalista reconhece o valor da empresa, a evidência técnica de exaustão compradora, com o ativo operando acima da banda superior de Bollinger e em zona de sobrecompra (RSI > 70), torna o preço atual proibitivo. Não perseguimos euforia em topos históricos, preferindo aguardar uma correção saudável que alinhe o risco ao potencial de retorno.",
+    "gatilho": "Correção técnica para a média móvel de 20 períodos ou recuo para a faixa de suporte próxima aos R$ 37,50, acompanhado de uma normalização do RSI abaixo de 60.",
+    "entrada_ref": null,
+    "stop_ref": null,
+    "alvo_ref": null
+  },
+  "verificacao": {
+    "conferido": true,
+    "ok": true,
+    "alertas": [],
+    "conferido_em": "14/07/2026"
+  },
+  "fontes": [
+    "Preço e indicadores técnicos (RSI, MACD, Bollinger, volume): cálculo próprio sobre cotações do Yahoo Finance / brapi.dev.",
+    "Múltiplos (P/L, P/VP, ROE, DY): provedor de mercado — quando disponível, priorizamos os dados oficiais da CVM no Raio-X Fundamentalista.",
+    "Análise e síntese: geradas por IA a partir exclusivamente dos números acima, e conferidas por uma segunda verificação automática."
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "coletado_em": "09/07/2026 08:30",
+  "total": 30,
+  "urgentes": 2,
+  "destaque": {
+    "titulo": "Comissão do Senado aprova projeto para reduzir ligações indesejadas de empresas de telemarketing e cobrança",
+    "descricao": "A Comissão de Fiscalização e Controle do Senado (CTFC) do Senado aprovou nesta quarta-feira (8) um projeto de lei que busca reduzir as ligações indesejadas de empresas de telemarketing e cobrança para quem solicitar não receber esse tipo de telefonema. 🔎O texto foi aprovado em caráter terminativo, ou seja, segue direto para a análise da Câmara dos Deputados caso não haja recurso. Relatado pelo sen",
+    "link": "https://g1.globo.com/politica/noticia/2026/07/08/comissao-do-senado-aprova-projeto-para-reduzir-ligacoes-indesejadas-de-empresas-de-telemarketing-e-cobranca.ghtml",
+    "fonte": "G1 Política",
+    "categoria": "Política",
+    "cor": "#d4a017",
+    "urgencia": "alta",
+    "score_relevancia": 4,
+    "pub_date": "Wed, 08 Jul 2026 21:52:43 -0000",
+    "setores": [
+      "Mercado geral"
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Comissão do Senado aprova projeto para reduzir ligações indesejadas de empresas de telemarketing e cobrança",
+      "descricao": "A Comissão de Fiscalização e Controle do Senado (CTFC) do Senado aprovou nesta quarta-feira (8) um projeto de lei que busca reduzir as ligações indesejadas de empresas de telemarketing e cobrança para quem solicitar não receber esse tipo de telefonema. 🔎O texto foi aprovado em caráter terminativo, ou seja, segue direto para a análise da Câmara dos Deputados caso não haja recurso. Relatado pelo sen",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/comissao-do-senado-aprova-projeto-para-reduzir-ligacoes-indesejadas-de-empresas-de-telemarketing-e-cobranca.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 4,
+      "pub_date": "Wed, 08 Jul 2026 21:52:43 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "O colapso na trégua entre EUA e Irã - O Assunto #1757",
+      "descricao": "\"Para mim, acho que acabou. Eu não quero mais lidar com eles\", disse o presidente dos Estados Unidos, Donald Trump, sobre o conflito com o Irã, na cúpula da Otan, na Turquia. A declaração do republicano veio depois de uma nova troca de ataques entre os dois países, menos de um mês após o anúncio de um acordo provisório para interromper os bombardeios e retomar as negociações sobre o programa nucle",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/07/09/o-colapso-na-tregua-entre-eua-e-ira-o-assunto-1757.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "alta",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 09 Jul 2026 03:30:08 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+      "descricao": "Índices futuros dos EUA operam mistos em meio a tensões com o Irã The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09072026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Thu, 09 Jul 2026 10:59:04 +0000",
+      "setores": [
+        "Bancos (ITUB4, BBDC4)",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Dólar recua, bolsa cai e petróleo dispara com tensão no Oriente Médio",
+      "descricao": "O dólar fechou em leve queda frente ao real, enquanto a bolsa caiu quase 1% e o petróleo avançou mais de 5% nesta quarta-feira (8), num dia marcado pela escalada das tensões entre Estados Unidos e Irã. A alta do petróleo ajudou a limitar as perdas da moeda brasileira, mas o ambiente de maior aversão ao risco pressionou a Bolsa. Principais números: Dólar: -0,09%, a R$ 5,148 Ibovespa: -0,79%, aos 17",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-recua-bolsa-cai-e-petroleo-dispara-com-tensao-no-oriente-medio",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 5,
+      "pub_date": "Wed, 08 Jul 2026 19:37:00 -0300",
+      "setores": [
+        "PETR4/PETR3",
+        "Câmbio / Exportadores",
+        "Todos os ativos"
+      ]
+    },
+    {
+      "titulo": "Alcolumbre e PT travam novo embate sobre PEC",
+      "descricao": "Presidente do Congresso, Davi Alcolumbre, e integrantes do PT trocam acusações em torno da demora na tramitação no Senado da proposta que trata do fim da escala 6x1",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7457052-alcolumbre-e-pt-travam-novo-embate-sobre-pec.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "media",
+      "score_relevancia": 4,
+      "pub_date": "Wed, 8 Jul 2026 03:59:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Senado aprova MP que destina parte da arrecadação com bets para fundo da Polícia Federal",
+      "descricao": "O Senado aprovou nesta quarta-feira (8) uma medida provisória (MP) que destina parte do dinheiro arrecadado pelo governo com apostas de quota fixa — conhecidas como bets — para um fundo que dá suporte às operações e atividades da Polícia Federal (PF). O texto seguirá para sanção do presidente Luiz Inácio Lula da Silva (PT). Esses recursos, antes transferidos para a Saúde e Previdência Social, agor",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/senado-aprova-mp-que-destina-parte-da-arrecadacao-com-bets-para-fundo-da-policia-federal.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 08 Jul 2026 21:54:09 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "FMI eleva projeção para PIB do Brasil, mas prevê desaceleração em 2027",
+      "descricao": "O Fundo Monetário Internacional (FMI) elevou as projeções de crescimento da economia brasileira para 2026 e 2027, mas avalia que o ritmo de expansão perderá força no próximo ano. A atualização consta do relatório Perspectiva Econômica Global, divulgado nesta quarta-feira (8). A estimativa para o Produto Interno Bruto (PIB) brasileiro passou de 1,9% para 2,4% em 2026. Para 2027, a previsão subiu de",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/fmi-eleva-projecao-para-pib-do-brasil-mas-preve-desaceleracao-em-2027",
+      "fonte": "Agência Brasil",
+      "categoria": "Política Econômica",
+      "cor": "#009c3b",
+      "urgencia": "media",
+      "score_relevancia": 3,
+      "pub_date": "Wed, 08 Jul 2026 16:07:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Direcional, Ambipar, Méliuz, Vale, SLC e mais ações para acompanhar hoje",
+      "descricao": "Confira os principais destaques do noticiário corporativo desta quinta-feira (9) The post Direcional, Ambipar, Méliuz, Vale, SLC e mais ações para acompanhar hoje appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/direcional-ambipar-meliuz-vale-slc-e-mais-acoes-para-acompanhar-hoje/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 09 Jul 2026 10:59:03 +0000",
+      "setores": [
+        "VALE3"
+      ]
+    },
+    {
+      "titulo": "Minidólar (WDOQ26): tensão no Oriente Médio mantém dólar e petróleo no radar",
+      "descricao": "Saiba o que esperar para o minidólar nesta quinta (09) The post Minidólar (WDOQ26): tensão no Oriente Médio mantém dólar e petróleo no radar appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoq26-09072026/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Thu, 09 Jul 2026 10:06:00 +0000",
+      "setores": [
+        "PETR4/PETR3",
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Senado aprova crédito de R$ 15 bi para exportadores afetados por tarifaço e guerra no Oriente Médio",
+      "descricao": "O Senado aprovou nesta quarta-feira (8) uma medida provisória (MP) que libera linha de financiamento de R$ 15 bilhões para empresas afetadas pelo tarifaço imposto pelos Estados Unidos aos produtos brasileiros e também pela guerra no Oriente Médio. O texto agora seguirá para a sanção do presidente Luiz Inácio Lula da Silva (PT). O crédito será ofertado dentro do Plano Brasil Soberano para exportado",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/senado-aprova-credito-de-r-15-bi-para-exportadoras-afetadas-por-tarifaco-e-guerra-no-oriente-medio.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 08 Jul 2026 21:06:04 -0000",
+      "setores": [
+        "VALE3",
+        "Bancos (ITUB4, BBDC4)"
+      ]
+    },
+    {
+      "titulo": "SpaceXAI lança sua IA mais poderosa e promete mais economia para usuários",
+      "descricao": "Grok, inteligência artificial da SpaceXAI Reuters/Dado Ruvic/Illustration A SpaceXAI, do bilionário Elon Musk, lançou nesta quarta-feira (8) o que considera ser seu modelo de inteligência artificial mais inteligente. Batizado de Grok 4.5, ele foi criado principalmente para ajudar usuários a programar códigos e a fazer tarefas de escritório, como criar planilhas e apresentações complexas. 🗒️Tem alg",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/08/spacexai-lanca-sua-ia-mais-poderosa-e-promete-mais-economia-para-usuarios.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 08 Jul 2026 20:56:12 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Apple fecha acordo de R$ 155 bilhões para fabricar chips nos EUA",
+      "descricao": "Apple anuncia sucessão: Tim Cook deixará comando e John Ternus será novo CEO A Apple planeja investir mais de US$ 30 bilhões (aproximadamente R$ 155,4 bilhões, considerando o dólar a R$ 5,18) em um acordo de compra de chips firmado nesta semana com a Broadcom. O contrato também prevê a ampliação de uma fábrica da fabricante de semicondutores no Colorado, nos Estados Unidos, segundo informações div",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/08/apple-fecha-acordo-de-r-155-bilhoes-para-fabricar-chips-nos-eua.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 08 Jul 2026 15:30:08 -0000",
+      "setores": [
+        "Câmbio / Exportadores"
+      ]
+    },
+    {
+      "titulo": "Ao tratar de tarifaço dos EUA, Caiado critica Lula por 'provocar' Trump e 'ajoelhamento' de Flávio Bolsonaro",
+      "descricao": "Pré-candidato à Presidência Ronaldo Caiado durante participação no Flow Podcast Reprodução Pré-candidato à Presidência pelo PSD, Ronaldo Caiado criticou as atitudes do presidente Lula (PT) e do senador Flávio Bolsonaro (PL) em relação à ameaça de novo tarifaço pelo governo dos Estados Unidos. Segundo o ex-governador de Goiás, Lula tem provocado o presidente americano, Donald Trump, com o objetivo ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/08/caiado-lula-provocacao-trump-flavio-bolsonaro-ajoelhamento.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 08 Jul 2026 23:15:38 -0000",
+      "setores": [
+        "VALE3"
+      ]
+    },
+    {
+      "titulo": "'Não podemos sair brigando dentro de casa', diz presidente do PL sobre atritos entre Michelle e Flávio Bolsonaro",
+      "descricao": "Presidente nacional do PL, Valdemar Costa Neto Beto Barata/PL/Divulgação O presidente do Partido Liberal (PL), Valdemar Costa Neto, afirmou nesta quarta-feira (8), que Flávio e Michelle Bolsonaro não se falam desde as trocas de acusações pelas redes sociais e que é preciso cessar os conflitos internos para que seja definido um 'rumo'. \"Michelle é uma pessoa especial. Ela tem talento, é uma grande ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/08/nao-podemos-sair-brigando-dentro-de-casa-diz-presidente-do-pl-sobre-atritos-entre-michelle-e-flavio-bolsonaro.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 08 Jul 2026 22:32:16 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Novo líder do PT no Senado diz que irá atuar para distensionar relação entre Lula e Alcolumbre",
+      "descricao": "O novo líder do PT no Senado, Camilo Santana (PT-CE), afirmou nesta quarta-feira (8) que irá atuar para distensionar a relação entre o presidente da Casa, Davi Alcolumbre (União-AP), com o presidente Luiz Inácio Lula da Silva (PT). Além do posto de líder PT, ocupado anteriormente por Rogério Carvalho (SE), Camilo assumiu a presidência da Comissão de Educação (CE), que era ocupada pela nova líder d",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/novo-lider-do-pt-no-senado-diz-que-ira-atuar-para-distensionar-relacao-entre-lula-e-alcolumbre.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 08 Jul 2026 19:48:40 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Flávio Bolsonaro defende EUA e diz que Lula 'lambe as botas da China'",
+      "descricao": "Flávio Bolsonaro (PL) durante live nesta quarta-feira (8). Reprodução/Youtube/Flávio Bolsonaro Em meio ao risco de nova ofensiva tarifária do governo de Donald Trump ao Brasil, o pré-candidato à Presidência da República pelo PL, senador Flávio Bolsonaro, defendeu nesta quarta-feira (8) os Estados Unidos e disse que o presidente Luiz Inácio Lula da Silva (PT) \"lambe as botas da China\". Na terça-fei",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/flavio-bolsonaro-defende-eua-e-diz-que-lula-lambe-botas-da-china.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 08 Jul 2026 18:59:11 -0000",
+      "setores": [
+        "VALE3"
+      ]
+    },
+    {
+      "titulo": "Governo avalia MP para renegociar dívidas de produtores rurais",
+      "descricao": "Fazenda estuda medidas com critérios mais restritos para limitar impacto fiscal, enquanto parlamentares defendem programa mais amplo para os produtores",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7457398-governo-avalia-mp-para-renegociar-dividas-de-produtores-rurais.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 8 Jul 2026 14:07:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Congresso debate novas regras e cerco maior às bets no Brasil",
+      "descricao": "Audiência na Casa legislativa ocorre, nesta quarta-feira (8/7), em meio ao avanço de várias propostas no Congresso para limitar publicidade, reforçar fiscalização e ampliar a proteção a apostadores diante de alertas sobre endividamento e saúde mental",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7457051-congresso-debate-novas-regras-e-cerco-maior-as-bets-no-brasil.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 8 Jul 2026 03:59:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Governo e FPA buscam consenso sobre renegociação de dívidas rurais",
+      "descricao": "Fazenda tenta impor restrição para produtores afetados com mudanças climáticas para reduzir impacto fiscal",
+      "link": "https://www.correiobraziliense.com.br/economia/2026/07/7457074-governo-e-fpa-buscam-consenso-sobre-renegociacao-de-dividas-rurais.html",
+      "fonte": "Correio Braziliense Economia",
+      "categoria": "Brasília / DF",
+      "cor": "#ff4466",
+      "urgencia": "baixa",
+      "score_relevancia": 2,
+      "pub_date": "Wed, 8 Jul 2026 03:59:00 -0300",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Faria Lima vê atuação de Flávio em novo tarifaço dos EUA como inócua e decepcionante",
+      "descricao": "Senador participou de audiência pública do governo americano para tentar impedir a imposição de novas tarifas de 25% contra produtos importados do Brasil The post Faria Lima vê atuação de Flávio em novo tarifaço dos EUA como inócua e decepcionante appeared first on InfoMoney .",
+      "link": "https://www.infomoney.com.br/mercados/faria-lima-ve-atuacao-de-flavio-em-novo-tarifaco-dos-eua-como-inocua-e-decepcionante/",
+      "fonte": "Infomoney",
+      "categoria": "Mercado",
+      "cor": "#4488ff",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 10:41:22 +0000",
+      "setores": [
+        "VALE3",
+        "Energia (CPFE3, ELET3)"
+      ]
+    },
+    {
+      "titulo": "'Não existe mais ano normal': agricultores dos EUA mudam horários de colheita e protegem mudas para enfrentar calor extremo",
+      "descricao": "Annie Woods colhe abobrinhas da variedade Eight Ball ao pôr do sol, na quarta-feira, 1º de julho de 2026, em sua fazenda em Brooksville, no estado de Kentucky, EUA. Joshua A. Bickel/AP Mesmo quando o sol começa a se pôr, o calor do dia ainda permanece no ar enquanto Annie Woods volta à lavoura para colher abóboras e abobrinhas em sua fazenda. Ondas de calor intensas e prolongadas fazem parte de um",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/09/nao-existe-mais-ano-normal-agricultores-dos-eua-mudam-horarios-de-colheita-e-protegem-mudas-para-enfrentar-calor-extremo.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 06:00:29 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Meta constrói data center gigante de IA no Canadá com energia equivalente a 800 mil casas",
+      "descricao": "Data Center: servidores funcionam como sistemas de armazenamento e proteção de dados A Meta Platforms anunciou o início da construção de um novo data center otimizado para inteligência artificial em Sturgeon County, na província de Alberta, no Canadá. A unidade terá 1 gigawatt (GW) de capacidade energética, projetada para atender às demandas de processamento de IA. A novidade consumirá o equivalen",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/09/meta-constroi-data-center-gigante-de-ia-no-canada-com-energia-equivalente-a-800-mil-casas.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 06:00:09 -0000",
+      "setores": [
+        "VALE3",
+        "Energia (CPFE3, ELET3)"
+      ]
+    },
+    {
+      "titulo": "O que é o Estreito de Ormuz, fundamental para petróleo mundial; disputa por passagem motiva novos ataques entre EUA e Irã",
+      "descricao": "O Estreito de Ormuz voltou ao centro das atenções após uma nova escalada no conflito entre Estados Unidos e Irã. Nesta quarta-feira (8), os EUA lançaram novos ataques contra alvos iranianos em resposta a ofensivas de Teerã contra navios comerciais que cruzavam a região. AO VIVO: Acompanhe em TEMPO REAL as notícias sobre a guerra no Irã Em reação, o Irã ameaçou fechar a principal rota marítima para",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/09/o-que-e-o-estreito-de-ormuz-fundamental-para-petroleo-mundial-disputa-por-passagem-motiva-novos-ataques-entre-eua-e-ira.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 03:01:08 -0000",
+      "setores": [
+        "PETR4/PETR3",
+        "VALE3"
+      ]
+    },
+    {
+      "titulo": "Itamaraty mapeia mais de 40 empresas e associações americanas que não querem o tarifaço sobre os produtos brasileiros",
+      "descricao": "O Ministério das Relações Exteriores mapeou 43 empresas e associações comerciais americanas que pedem que produtos brasileirios não sejam tarifados com base na investigação aberta feita pelo governo de Donald Trump. Os pedidos foram apresentados sob o argumento de que não há substitutos produzidos no mercado doméstico para esses produtos. As entidades também alertaram que a aplicação das tarifas e",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/09/itamaraty-mapeia-mais-de-40-empresas-e-associacoes-americanas-que-nao-querem-o-tarifaco-sobre-os-produtos-brasileiros.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 03:00:42 -0000",
+      "setores": [
+        "VALE3",
+        "Energia (CPFE3, ELET3)"
+      ]
+    },
+    {
+      "titulo": "Um ano após carta de Trump a Lula e anúncio de tarifas: relembre os principais capítulos da disputa comercial entre EUA e Brasil",
+      "descricao": "Nesta quinta-feira (9), completa um ano que o presidente dos Estados Unidos, Donald Trump, enviou uma carta ao presidente Luiz Inácio Lula da Silva (PT) anunciando uma tarifa de 50% sobre produtos brasileiros exportados ao mercado americano. O documento marcou uma escalada nas tensões comerciais entre os dois países. Um ano depois, o governo brasileiro tenta evitar que novas tarifas propostas pelo",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/09/um-ano-apos-carta-de-trump-a-lula-e-anuncio-de-tarifas-relembre-os-principais-capitulos-da-disputa-comercial-entre-eua-e-brasil.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 03:00:09 -0000",
+      "setores": [
+        "Energia (CPFE3, ELET3)"
+      ]
+    },
+    {
+      "titulo": "Justiça aprova acordo entre Elon Musk e SEC por atraso na divulgação de compra do Twitter",
+      "descricao": "Elon Musk se torna o primeiro trilionário da história A Justiça dos Estados Unidos aprovou, nesta quarta-feira (8), o acordo entre Elon Musk e a Comissão de Valores Mobiliários dos EUA (SEC, na sigla em inglês) sobre a divulgação 11 dias atrasada da compra de ações do Twitter (atual X). Pelo acordo, um fundo ligado a Musk pagará uma multa civil de US$ 1,5 milhão - R$ 7,75 milhões (considerando o d",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/08/justica-aprova-acordo-entre-elon-musk-e-sec-por-atraso-na-divulgacao-de-compra-do-twitter.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 08 Jul 2026 20:07:31 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "Rússia tenta bloquear Starlink de Musk para conter drones ucranianos",
+      "descricao": "Militares da companhia Sparta, das Forças Armadas da Ucrânia, preparam um drone de ataque de médio alcance Zozulia REUTERS/Valentyn Ogirenko A Rússia está tentando neutralizar os ataques de drones ucranianos de \"alcance intermediário\" camuflando cargas e instalando potentes sistemas de guerra eletrônica contra a Starlink, a tecnologia de internet via satélite de Elon Musk, informou uma reportagem ",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/07/08/russia-tenta-bloquear-starlink-de-musk-para-conter-drones-ucranianos.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 08 Jul 2026 19:44:44 -0000",
+      "setores": [
+        "VALE3"
+      ]
+    },
+    {
+      "titulo": "Em meio ao tarifaço, governo Trump percorre cidades brasileiras para atrair empresas aos EUA",
+      "descricao": "Presidente dos Estados Unidos, Donald Trump, durante reunião de cúpula da Otan em Ancara, na Turquia, em 8 de julho de 2026. REUTERS/Jonathan Ernst Em meio ao tarifaço promovido por Donald Trump, o governo dos Estados Unidos tem buscado atrair empresas brasileiras para abrir filiais no país. Um evento promovido pela Embaixada e pelos Consulados dos EUA no Brasil, que deve passar inicialmente por n",
+      "link": "https://g1.globo.com/economia/noticia/2026/07/08/em-meio-ao-tarifaco-governo-trump-percorre-cidades-brasileiras-para-atrair-empresas-aos-eua.ghtml",
+      "fonte": "G1 Economia",
+      "categoria": "Economia",
+      "cor": "#009c3b",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Wed, 08 Jul 2026 19:00:26 -0000",
+      "setores": [
+        "VALE3"
+      ]
+    },
+    {
+      "titulo": "PF faz operação contra suspeita de fraudes no INSS com declarações falsas de indígenas",
+      "descricao": "A Polícia Federal (PF) e a Controladoria-Geral da União (CGU) deflagraram, nesta quinta-feira (9), uma operação para investigar um esquema suspeito de fraudes contra o Instituto Nacional do Seguro Social (INSS) envolvendo o uso de falsas declarações de pertencimento a comunidades indígenas. Os investigadores apuram se o grupo utilizava documentos e declarações falsas para obter irregularmente bene",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/07/09/pf-e-cgu-fazem-operacao-sobre-suspeita-de-fraudes-no-inss-com-declaracoes-falsas-de-indigenas.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 11:07:10 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    },
+    {
+      "titulo": "PF apreende espingarda registrada em nome de Bolsonaro no RS",
+      "descricao": "PF apreende espingarda de Bolsonaro na casa de homem no Rio Grande do Sul A Polícia Federal apreendeu nesta quarta-feira (8) uma espingarda registrada em nome do ex-presidente Jair Bolsonaro (PL). O armamento foi localizado na casa de um homem em Cachoeirinha, no Rio Grande do Sul, que procurou voluntariamente a Polícia Federal para informar que estava com a arma e demonstrar interesse em entregá-",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/08/pf-apreende-espingarda-registrada-em-nome-de-bolsonaro-no-rs.ghtml",
+      "fonte": "G1 Política",
+      "categoria": "Política",
+      "cor": "#d4a017",
+      "urgencia": "baixa",
+      "score_relevancia": 1,
+      "pub_date": "Thu, 09 Jul 2026 01:49:32 -0000",
+      "setores": [
+        "Mercado geral"
+      ]
+    }
+  ]
+}
